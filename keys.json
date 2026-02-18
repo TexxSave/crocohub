@@ -1,4 +1,13 @@
 {
-  "keys": {},
-  "updated": 1771436147430
+  "keys": {
+    "CROCO-KQPO-NPC4-B60P": {
+      "userId": "1231624983030009939",
+      "username": "croco.v1",
+      "hwid": null,
+      "createdAt": 1771436524905,
+      "expiration": 1771522924905,
+      "usedAt": null
+    }
+  },
+  "updated": 1771436525294
 }
