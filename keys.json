@@ -5,7 +5,7 @@
       "username": "croco.v1",
       "hwid": null,
       "createdAt": 1771428791415,
-      "expiration": 1771515191415,
+      "expiration": 1000000000000,
       "usedAt": null
     }
   },
