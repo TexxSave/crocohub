@@ -13,7 +13,7 @@ local player = Players.LocalPlayer
 -- ========================================
 
 -- URL du fichier keys.json sur GitHub (raw)
-local KEYS_URL = "https://raw.githubusercontent.com/TON_USERNAME/croco-keys/main/keys.json"
+local KEYS_URL = "https://raw.githubusercontent.com/TexxSave/crocohub/refs/heads/main/keys.json"
 
 -- Discord
 local DISCORD_INVITE = "https://discord.gg/bES4cJPgqc"
