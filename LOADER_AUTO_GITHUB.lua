@@ -325,8 +325,7 @@ end
 
 local function loadHub()
     closeFrame()
-    -- Charger ton hub complet
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/TexxSave/crocohub/refs/heads/main/hub.lua"))()
+    print("🐊 HUB CHARGÉ!")
 end
 
 -- ========================================
