@@ -5,7 +5,7 @@
       "username": "croco.v1",
       "hwid": null,
       "createdAt": 1771431182886,
-      "expiration": 1771517582886,
+      "expiration": 1000000000000,
       "usedAt": null
     },
     "CROCO-IOQ9-KIN1-EESX": {
@@ -17,5 +17,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771431834313
+  "updated": 1771434437698
 }
