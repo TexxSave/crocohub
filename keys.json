@@ -7,7 +7,15 @@
       "createdAt": 1771431834046,
       "expiration": 1771518234046,
       "usedAt": null
+    },
+    "CROCO-7Z7M-4O08-TBN1": {
+      "userId": "1231624983030009939",
+      "username": "croco.v1",
+      "hwid": null,
+      "createdAt": 1771435957967,
+      "expiration": 1771522357967,
+      "usedAt": null
     }
   },
-  "updated": 1771434571721
+  "updated": 1771435958237
 }
