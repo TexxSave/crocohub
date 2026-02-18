@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-QVUX-IWOW-UBDY": {
-      "userId": "1231624983030009939",
-      "username": "croco.v1",
-      "hwid": null,
-      "createdAt": 1771431182886,
-      "expiration": 1000000000000,
-      "usedAt": null
-    },
     "CROCO-IOQ9-KIN1-EESX": {
       "userId": "1451564052655640711",
       "username": "itsmylovepvp2470",
@@ -17,5 +9,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771434437698
+  "updated": 1771434571721
 }
