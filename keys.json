@@ -7,7 +7,15 @@
       "createdAt": 1771436524905,
       "expiration": 1771522924905,
       "usedAt": null
+    },
+    "CROCO-DLFP-MPF7-7BOK": {
+      "userId": "1312134486464663562",
+      "username": "4.nix",
+      "hwid": null,
+      "createdAt": 1771449559978,
+      "expiration": 1771535959978,
+      "usedAt": null
     }
   },
-  "updated": 1771436525294
+  "updated": 1771449560246
 }
