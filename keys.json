@@ -1,13 +1,4 @@
 {
-  "keys": {
-    "CROCO-3VY3-5OO6-A7SB": {
-      "userId": "1231624983030009939",
-      "username": "croco.v1",
-      "hwid": null,
-      "createdAt": 1771428791415,
-      "expiration": 1000000000000,
-      "usedAt": null
-    }
-  },
-  "updated": 1771431012426
+  "keys": {},
+  "updated": 1771431038467
 }
