@@ -326,7 +326,7 @@ end
 local function loadHub()
     closeFrame()
     -- Charger ton hub complet
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/TON_USERNAME/CROCO_HUB_V3_FINAL_WITH_UNLOCK_ALL.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TexxSave/crocohub/refs/heads/main/hub.lua"))()
 end
 
 -- ========================================
