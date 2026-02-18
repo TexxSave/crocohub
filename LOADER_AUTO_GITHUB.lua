@@ -48,8 +48,8 @@ local function loadKey()
         end)
         
         if success and data then
-            -- Vérifier expiration (timestamp en millisecondes)
-            if data.expiration > Date.now() and data.hwid == HWID then
+            -- Vérifier expiration (timestamp en secondes)
+            if os.time() < data.expiration and data.hwid == HWID then
                 return data.key
             else
                 delfile("croco_key.dat")
@@ -73,7 +73,7 @@ local function verifyKey(key)
         if keysData.keys and keysData.keys[key] then
             local keyData = keysData.keys[key]
             
-            -- Vérifier expiration
+            -- Vérifier expiration (millisecondes)
             if os.time() * 1000 > keyData.expiration then
                 return {
                     valid = false,
@@ -219,13 +219,13 @@ local InstCorner = Instance.new("UICorner")
 InstCorner.CornerRadius = UDim.new(0, 10)
 InstCorner.Parent = Instructions
 
--- HWID
+-- HWID (CORRIGÉ ICI !)
 local HWIDLabel = Instance.new("TextLabel")
 HWIDLabel.Size = UDim2.new(1, -60, 0, 25)
 HWIDLabel.Position = UDim2.new(0, 30, 0, 315)
 HWIDLabel.BackgroundTransparency = 1
 HWIDLabel.Text = "🔑 Your HWID: " .. HWID:sub(1, 28) .. "..."
-HWIDLabel.Font = Enum.Font.GothamMono
+HWIDLabel.Font = Enum.Font.RobotoMono  -- ✅ CORRIGÉ !
 HWIDLabel.TextSize = 10
 HWIDLabel.TextColor3 = Color3.fromRGB(100, 100, 100)
 HWIDLabel.TextXAlignment = Enum.TextXAlignment.Left
@@ -325,7 +325,8 @@ end
 
 local function loadHub()
     closeFrame()
-    print("🐊 HUB CHARGÉ!")
+    -- METS L'URL DE TON HUB ICI !
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TexxSave/crocohub/refs/heads/main/hub.lua"))()
 end
 
 -- ========================================
@@ -380,7 +381,7 @@ VerifyBtn.MouseButton1Click:Connect(function()
     showStatus("⏳ Checking key on GitHub...", Color3.fromRGB(255, 180, 50))
     
     task.spawn(function()
-        task.wait(0.5) -- Petit délai pour l'animation
+        task.wait(0.5)
         
         local result = verifyKey(key)
         
