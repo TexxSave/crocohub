@@ -47,7 +47,15 @@
       "createdAt": 1771496242484,
       "expiration": 1771582642484,
       "usedAt": null
+    },
+    "CROCO-425V-96YH-8UWC": {
+      "userId": "1416398527944200403",
+      "username": "vuny1997",
+      "hwid": null,
+      "createdAt": 1771496490550,
+      "expiration": 1771582890550,
+      "usedAt": null
     }
   },
-  "updated": 1771496242758
+  "updated": 1771496490819
 }
