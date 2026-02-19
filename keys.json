@@ -5,7 +5,7 @@
       "username": "croco.v1",
       "hwid": null,
       "createdAt": 1771436524905,
-      "expiration": 1771522924905,
+      "expiration": 1000000000000,
       "usedAt": null
     },
     "CROCO-DLFP-MPF7-7BOK": {
@@ -17,5 +17,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771449560246
+  "updated": 1771491127572
 }
