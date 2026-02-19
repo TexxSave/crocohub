@@ -87,7 +87,15 @@
       "createdAt": 1771514598145,
       "expiration": 1771600998145,
       "usedAt": null
+    },
+    "CROCO-Y1MO-7U6Z-TG4L": {
+      "userId": "1082222521769795685",
+      "username": "neversayyes0",
+      "hwid": null,
+      "createdAt": 1771518647144,
+      "expiration": 1771605047144,
+      "usedAt": null
     }
   },
-  "updated": 1771514598430
+  "updated": 1771518647513
 }
