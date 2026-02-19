@@ -79,7 +79,15 @@
       "createdAt": 1771503441571,
       "expiration": 1771589841571,
       "usedAt": null
+    },
+    "CROCO-PCZB-QVU7-LRXY": {
+      "userId": "1403310873292046336",
+      "username": "enzo.fo",
+      "hwid": null,
+      "createdAt": 1771514598145,
+      "expiration": 1771600998145,
+      "usedAt": null
     }
   },
-  "updated": 1771503441849
+  "updated": 1771514598430
 }
