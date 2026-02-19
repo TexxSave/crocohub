@@ -55,7 +55,15 @@
       "createdAt": 1771496490550,
       "expiration": 1771582890550,
       "usedAt": null
+    },
+    "CROCO-QLDP-VX29-9PQ2": {
+      "userId": "1178352374297923655",
+      "username": "aznff",
+      "hwid": null,
+      "createdAt": 1771499207766,
+      "expiration": 1771585607766,
+      "usedAt": null
     }
   },
-  "updated": 1771496490819
+  "updated": 1771499208033
 }
