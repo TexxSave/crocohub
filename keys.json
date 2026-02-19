@@ -15,7 +15,15 @@
       "createdAt": 1771491143403,
       "expiration": 1771577543403,
       "usedAt": null
+    },
+    "CROCO-C300-GYUD-UOI0": {
+      "userId": "1078008876131156060",
+      "username": "ssldk",
+      "hwid": null,
+      "createdAt": 1771492877202,
+      "expiration": 1771579277202,
+      "usedAt": null
     }
   },
-  "updated": 1771491143685
+  "updated": 1771492877492
 }
