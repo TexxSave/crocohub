@@ -31,7 +31,15 @@
       "createdAt": 1771493340518,
       "expiration": 1771579740518,
       "usedAt": null
+    },
+    "CROCO-RMDR-RLLL-ENJ8": {
+      "userId": "1456635530266804461",
+      "username": "lv5_n",
+      "hwid": null,
+      "createdAt": 1771493883610,
+      "expiration": 1771580283610,
+      "usedAt": null
     }
   },
-  "updated": 1771493340783
+  "updated": 1771493883872
 }
