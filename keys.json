@@ -63,7 +63,15 @@
       "createdAt": 1771499207766,
       "expiration": 1771585607766,
       "usedAt": null
+    },
+    "CROCO-PMGA-YAY1-FUCS": {
+      "userId": "1467900485901222082",
+      "username": "sexedebrainrot",
+      "hwid": null,
+      "createdAt": 1771499361936,
+      "expiration": 1771585761936,
+      "usedAt": null
     }
   },
-  "updated": 1771499208033
+  "updated": 1771499362205
 }
