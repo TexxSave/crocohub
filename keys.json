@@ -39,7 +39,15 @@
       "createdAt": 1771493883610,
       "expiration": 1771580283610,
       "usedAt": null
+    },
+    "CROCO-501U-ZILF-PL9G": {
+      "userId": "1358045551802712196",
+      "username": "mklemkle",
+      "hwid": null,
+      "createdAt": 1771496242484,
+      "expiration": 1771582642484,
+      "usedAt": null
     }
   },
-  "updated": 1771493883872
+  "updated": 1771496242758
 }
