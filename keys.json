@@ -23,7 +23,15 @@
       "createdAt": 1771492877202,
       "expiration": 1771579277202,
       "usedAt": null
+    },
+    "CROCO-PC2B-4BIE-8FBF": {
+      "userId": "1457394178555379867",
+      "username": "17kz_.",
+      "hwid": null,
+      "createdAt": 1771493340518,
+      "expiration": 1771579740518,
+      "usedAt": null
     }
   },
-  "updated": 1771492877492
+  "updated": 1771493340783
 }
