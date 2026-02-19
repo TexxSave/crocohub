@@ -7,7 +7,15 @@
       "createdAt": 1771449559978,
       "expiration": 1771535959978,
       "usedAt": null
+    },
+    "CROCO-N5G4-CMGB-P17L": {
+      "userId": "1231624983030009939",
+      "username": "croco.v1",
+      "hwid": null,
+      "createdAt": 1771491143403,
+      "expiration": 1771577543403,
+      "usedAt": null
     }
   },
-  "updated": 1771491133620
+  "updated": 1771491143685
 }
