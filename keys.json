@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-DLFP-MPF7-7BOK": {
-      "userId": "1312134486464663562",
-      "username": "4.nix",
-      "hwid": null,
-      "createdAt": 1771449559978,
-      "expiration": 1771535959978,
-      "usedAt": null
-    },
     "CROCO-N5G4-CMGB-P17L": {
       "userId": "1231624983030009939",
       "username": "croco.v1",
@@ -97,5 +89,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771518647513
+  "updated": 1771538972088
 }
