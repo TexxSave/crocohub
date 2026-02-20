@@ -39,7 +39,15 @@
       "createdAt": 1771591849180,
       "expiration": 1771678249180,
       "usedAt": null
+    },
+    "CROCO-8URE-J1RD-USVG": {
+      "userId": "1178352374297923655",
+      "username": "aznff",
+      "hwid": null,
+      "createdAt": 1771599624792,
+      "expiration": 1771686024792,
+      "usedAt": null
     }
   },
-  "updated": 1771592972109
+  "updated": 1771599625137
 }
