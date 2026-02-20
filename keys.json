@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-PCZB-QVU7-LRXY": {
-      "userId": "1403310873292046336",
-      "username": "enzo.fo",
-      "hwid": null,
-      "createdAt": 1771514598145,
-      "expiration": 1771600998145,
-      "usedAt": null
-    },
     "CROCO-Y1MO-7U6Z-TG4L": {
       "userId": "1082222521769795685",
       "username": "neversayyes0",
@@ -49,5 +41,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771599625137
+  "updated": 1771603772200
 }
