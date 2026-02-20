@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-Y1MO-7U6Z-TG4L": {
-      "userId": "1082222521769795685",
-      "username": "neversayyes0",
-      "hwid": null,
-      "createdAt": 1771518647144,
-      "expiration": 1771605047144,
-      "usedAt": null
-    },
     "CROCO-NOSY-DO4V-WYL0": {
       "userId": "808031709773692978",
       "username": "exe.sh",
@@ -41,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771603772200
+  "updated": 1771607372236
 }
