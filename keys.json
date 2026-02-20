@@ -39,7 +39,15 @@
       "createdAt": 1771590603615,
       "expiration": 1771677003615,
       "usedAt": null
+    },
+    "CROCO-YP7T-DWRX-YWEA": {
+      "userId": "1183411959257894953",
+      "username": "6jdg",
+      "hwid": null,
+      "createdAt": 1771591849180,
+      "expiration": 1771678249180,
+      "usedAt": null
     }
   },
-  "updated": 1771590603882
+  "updated": 1771591849461
 }
