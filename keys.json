@@ -63,7 +63,15 @@
       "createdAt": 1771630208791,
       "expiration": 1771716608791,
       "usedAt": null
+    },
+    "CROCO-KMFF-LNDN-0LKI": {
+      "userId": "508509729660862464",
+      "username": "incomprisee",
+      "hwid": null,
+      "createdAt": 1771631876484,
+      "expiration": 1771718276484,
+      "usedAt": null
     }
   },
-  "updated": 1771630209249
+  "updated": 1771631876732
 }
