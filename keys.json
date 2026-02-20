@@ -31,7 +31,15 @@
       "createdAt": 1771551118574,
       "expiration": 1771637518574,
       "usedAt": null
+    },
+    "CROCO-ZHKV-P8J7-ZYJJ": {
+      "userId": "1189471706755108877",
+      "username": "qorxxx",
+      "hwid": null,
+      "createdAt": 1771590603615,
+      "expiration": 1771677003615,
+      "usedAt": null
     }
   },
-  "updated": 1771585772117
+  "updated": 1771590603882
 }
