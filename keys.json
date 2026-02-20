@@ -55,7 +55,15 @@
       "createdAt": 1771619483817,
       "expiration": 1771705883817,
       "usedAt": null
+    },
+    "CROCO-9ZU7-3NUO-D0VZ": {
+      "userId": "1263517789189312522",
+      "username": "darren920100",
+      "hwid": null,
+      "createdAt": 1771630208791,
+      "expiration": 1771716608791,
+      "usedAt": null
     }
   },
-  "updated": 1771619484090
+  "updated": 1771630209249
 }
