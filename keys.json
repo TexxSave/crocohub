@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-N5G4-CMGB-P17L": {
-      "userId": "1231624983030009939",
-      "username": "croco.v1",
-      "hwid": null,
-      "createdAt": 1771491143403,
-      "expiration": 1771577543403,
-      "usedAt": null
-    },
     "CROCO-C300-GYUD-UOI0": {
       "userId": "1078008876131156060",
       "username": "ssldk",
@@ -97,5 +89,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771577242070
+  "updated": 1771578572073
 }
