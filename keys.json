@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-RBKN-UPTU-77ZJ": {
-      "userId": "1189471706755108877",
-      "username": "qorxxx",
-      "hwid": null,
-      "createdAt": 1771503441571,
-      "expiration": 1771589841571,
-      "usedAt": null
-    },
     "CROCO-PCZB-QVU7-LRXY": {
       "userId": "1403310873292046336",
       "username": "enzo.fo",
@@ -49,5 +41,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771591849461
+  "updated": 1771592972109
 }
