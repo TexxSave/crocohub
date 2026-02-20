@@ -1,29 +1,5 @@
 {
   "keys": {
-    "CROCO-C300-GYUD-UOI0": {
-      "userId": "1078008876131156060",
-      "username": "ssldk",
-      "hwid": null,
-      "createdAt": 1771492877202,
-      "expiration": 1771579277202,
-      "usedAt": null
-    },
-    "CROCO-PC2B-4BIE-8FBF": {
-      "userId": "1457394178555379867",
-      "username": "17kz_.",
-      "hwid": null,
-      "createdAt": 1771493340518,
-      "expiration": 1771579740518,
-      "usedAt": null
-    },
-    "CROCO-RMDR-RLLL-ENJ8": {
-      "userId": "1456635530266804461",
-      "username": "lv5_n",
-      "hwid": null,
-      "createdAt": 1771493883610,
-      "expiration": 1771580283610,
-      "usedAt": null
-    },
     "CROCO-501U-ZILF-PL9G": {
       "userId": "1358045551802712196",
       "username": "mklemkle",
@@ -89,5 +65,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771578572073
+  "updated": 1771582172089
 }
