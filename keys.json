@@ -87,7 +87,15 @@
       "createdAt": 1771518647144,
       "expiration": 1771605047144,
       "usedAt": null
+    },
+    "CROCO-NOSY-DO4V-WYL0": {
+      "userId": "808031709773692978",
+      "username": "exe.sh",
+      "hwid": null,
+      "createdAt": 1771551118574,
+      "expiration": 1771637518574,
+      "usedAt": null
     }
   },
-  "updated": 1771538972088
+  "updated": 1771551118851
 }
