@@ -1,37 +1,5 @@
 {
   "keys": {
-    "CROCO-501U-ZILF-PL9G": {
-      "userId": "1358045551802712196",
-      "username": "mklemkle",
-      "hwid": null,
-      "createdAt": 1771496242484,
-      "expiration": 1771582642484,
-      "usedAt": null
-    },
-    "CROCO-425V-96YH-8UWC": {
-      "userId": "1416398527944200403",
-      "username": "vuny1997",
-      "hwid": null,
-      "createdAt": 1771496490550,
-      "expiration": 1771582890550,
-      "usedAt": null
-    },
-    "CROCO-QLDP-VX29-9PQ2": {
-      "userId": "1178352374297923655",
-      "username": "aznff",
-      "hwid": null,
-      "createdAt": 1771499207766,
-      "expiration": 1771585607766,
-      "usedAt": null
-    },
-    "CROCO-PMGA-YAY1-FUCS": {
-      "userId": "1467900485901222082",
-      "username": "sexedebrainrot",
-      "hwid": null,
-      "createdAt": 1771499361936,
-      "expiration": 1771585761936,
-      "usedAt": null
-    },
     "CROCO-RBKN-UPTU-77ZJ": {
       "userId": "1189471706755108877",
       "username": "qorxxx",
@@ -65,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771582172089
+  "updated": 1771585772117
 }
