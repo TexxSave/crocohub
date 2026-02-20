@@ -31,7 +31,15 @@
       "createdAt": 1771599624792,
       "expiration": 1771686024792,
       "usedAt": null
+    },
+    "CROCO-TT7N-6HRN-A9JV": {
+      "userId": "1154446221163909212",
+      "username": "wegorz_gaming",
+      "hwid": null,
+      "createdAt": 1771612518532,
+      "expiration": 1771698918532,
+      "usedAt": null
     }
   },
-  "updated": 1771607372236
+  "updated": 1771612518879
 }
