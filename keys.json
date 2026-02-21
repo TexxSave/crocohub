@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-ZHKV-P8J7-ZYJJ": {
-      "userId": "1189471706755108877",
-      "username": "qorxxx",
-      "hwid": null,
-      "createdAt": 1771590603615,
-      "expiration": 1771677003615,
-      "usedAt": null
-    },
-    "CROCO-YP7T-DWRX-YWEA": {
-      "userId": "1183411959257894953",
-      "username": "6jdg",
-      "hwid": null,
-      "createdAt": 1771591849180,
-      "expiration": 1771678249180,
-      "usedAt": null
-    },
     "CROCO-8URE-J1RD-USVG": {
       "userId": "1178352374297923655",
       "username": "aznff",
@@ -73,5 +57,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771667264883
+  "updated": 1771679372397
 }
