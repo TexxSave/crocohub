@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-TT7N-6HRN-A9JV": {
-      "userId": "1154446221163909212",
-      "username": "wegorz_gaming",
-      "hwid": null,
-      "createdAt": 1771612518532,
-      "expiration": 1771698918532,
-      "usedAt": null
-    },
     "CROCO-MOA6-ZJO2-YZSI": {
       "userId": "1458865035068706838",
       "username": "rayroxalt2",
@@ -97,5 +89,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771697849229
+  "updated": 1771700972504
 }
