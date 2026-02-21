@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-FQMC-WDF2-S7GM": {
-      "userId": "1239122317804699709",
-      "username": "naelausushiz",
-      "hwid": null,
-      "createdAt": 1771619483817,
-      "expiration": 1771705883817,
-      "usedAt": null
-    },
     "CROCO-9ZU7-3NUO-D0VZ": {
       "userId": "1263517789189312522",
       "username": "darren920100",
@@ -97,5 +89,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771706235627
+  "updated": 1771708172526
 }
