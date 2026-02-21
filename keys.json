@@ -63,7 +63,15 @@
       "createdAt": 1771681265131,
       "expiration": 1771767665131,
       "usedAt": null
+    },
+    "CROCO-AZDR-G5C0-I8C9": {
+      "userId": "1133730357930377287",
+      "username": "kzqsd",
+      "hwid": null,
+      "createdAt": 1771694444741,
+      "expiration": 1771780844741,
+      "usedAt": null
     }
   },
-  "updated": 1771686572453
+  "updated": 1771694445004
 }
