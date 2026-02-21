@@ -71,7 +71,15 @@
       "createdAt": 1771694444741,
       "expiration": 1771780844741,
       "usedAt": null
+    },
+    "CROCO-GYY6-C4WW-UACU": {
+      "userId": "1336170247040008253",
+      "username": "vy1h",
+      "hwid": null,
+      "createdAt": 1771696616452,
+      "expiration": 1771783016452,
+      "usedAt": null
     }
   },
-  "updated": 1771694445004
+  "updated": 1771696616714
 }
