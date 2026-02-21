@@ -87,7 +87,15 @@
       "createdAt": 1771697805175,
       "expiration": 1771784205175,
       "usedAt": null
+    },
+    "CROCO-UGMK-V1OM-DI6H": {
+      "userId": "754753455226093578",
+      "username": "luquioz_",
+      "hwid": null,
+      "createdAt": 1771697848977,
+      "expiration": 1771784248977,
+      "usedAt": null
     }
   },
-  "updated": 1771697805430
+  "updated": 1771697849229
 }
