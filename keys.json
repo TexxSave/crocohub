@@ -79,7 +79,15 @@
       "createdAt": 1771696616452,
       "expiration": 1771783016452,
       "usedAt": null
+    },
+    "CROCO-G778-BCW3-MP1A": {
+      "userId": "1069913258481434694",
+      "username": "59.rar",
+      "hwid": null,
+      "createdAt": 1771697805175,
+      "expiration": 1771784205175,
+      "usedAt": null
     }
   },
-  "updated": 1771696616714
+  "updated": 1771697805430
 }
