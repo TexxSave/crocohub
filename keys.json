@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-8URE-J1RD-USVG": {
-      "userId": "1178352374297923655",
-      "username": "aznff",
-      "hwid": null,
-      "createdAt": 1771599624792,
-      "expiration": 1771686024792,
-      "usedAt": null
-    },
     "CROCO-TT7N-6HRN-A9JV": {
       "userId": "1154446221163909212",
       "username": "wegorz_gaming",
@@ -73,5 +65,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771681265402
+  "updated": 1771686572453
 }
