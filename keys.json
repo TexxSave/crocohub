@@ -79,7 +79,15 @@
       "createdAt": 1771697848977,
       "expiration": 1771784248977,
       "usedAt": null
+    },
+    "CROCO-89HQ-I6IZ-ET8G": {
+      "userId": "1011957501522087967",
+      "username": "elpatapouf.",
+      "hwid": null,
+      "createdAt": 1771706152119,
+      "expiration": 1771792552119,
+      "usedAt": null
     }
   },
-  "updated": 1771704572500
+  "updated": 1771706152365
 }
