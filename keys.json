@@ -63,7 +63,15 @@
       "createdAt": 1771680565778,
       "expiration": 1771766965778,
       "usedAt": null
+    },
+    "CROCO-31P0-YBQL-QEUR": {
+      "userId": "1320758413457621046",
+      "username": "mega_cat2.0_96498",
+      "hwid": null,
+      "createdAt": 1771681265131,
+      "expiration": 1771767665131,
+      "usedAt": null
     }
   },
-  "updated": 1771680566040
+  "updated": 1771681265402
 }
