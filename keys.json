@@ -55,7 +55,15 @@
       "createdAt": 1771667264628,
       "expiration": 1771753664628,
       "usedAt": null
+    },
+    "CROCO-SARH-0DF9-RD9R": {
+      "userId": "1254469114727239760",
+      "username": "theshadow00276",
+      "hwid": null,
+      "createdAt": 1771680565778,
+      "expiration": 1771766965778,
+      "usedAt": null
     }
   },
-  "updated": 1771679372397
+  "updated": 1771680566040
 }
