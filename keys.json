@@ -63,7 +63,15 @@
       "createdAt": 1771631876484,
       "expiration": 1771718276484,
       "usedAt": null
+    },
+    "CROCO-XUMV-DZHX-PHY2": {
+      "userId": "1238588203280236704",
+      "username": "fayzenex",
+      "hwid": null,
+      "createdAt": 1771667264628,
+      "expiration": 1771753664628,
+      "usedAt": null
     }
   },
-  "updated": 1771639772273
+  "updated": 1771667264883
 }
