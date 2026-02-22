@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-XUMV-DZHX-PHY2": {
-      "userId": "1238588203280236704",
-      "username": "fayzenex",
-      "hwid": null,
-      "createdAt": 1771667264628,
-      "expiration": 1771753664628,
-      "usedAt": null
-    },
     "CROCO-SARH-0DF9-RD9R": {
       "userId": "1254469114727239760",
       "username": "theshadow00276",
@@ -73,5 +65,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771718972539
+  "updated": 1771754972711
 }
