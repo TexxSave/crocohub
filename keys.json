@@ -71,7 +71,15 @@
       "createdAt": 1771782265701,
       "expiration": 1771868665701,
       "usedAt": null
+    },
+    "CROCO-H7YP-9HTO-FBUN": {
+      "userId": "1277607444486557738",
+      "username": "bastien3444",
+      "hwid": null,
+      "createdAt": 1771785136896,
+      "expiration": 1771871536896,
+      "usedAt": null
     }
   },
-  "updated": 1771783772777
+  "updated": 1771785137179
 }
