@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-AZDR-G5C0-I8C9": {
-      "userId": "1133730357930377287",
-      "username": "kzqsd",
-      "hwid": null,
-      "createdAt": 1771694444741,
-      "expiration": 1771780844741,
-      "usedAt": null
-    },
-    "CROCO-GYY6-C4WW-UACU": {
-      "userId": "1336170247040008253",
-      "username": "vy1h",
-      "hwid": null,
-      "createdAt": 1771696616452,
-      "expiration": 1771783016452,
-      "usedAt": null
-    },
     "CROCO-G778-BCW3-MP1A": {
       "userId": "1069913258481434694",
       "username": "59.rar",
@@ -89,5 +73,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771782265972
+  "updated": 1771783772777
 }
