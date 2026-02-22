@@ -87,7 +87,15 @@
       "createdAt": 1771796706329,
       "expiration": 1771883106329,
       "usedAt": null
+    },
+    "CROCO-U1KU-E18P-W6RY": {
+      "userId": "1255873984373719135",
+      "username": "elias2.00272",
+      "hwid": null,
+      "createdAt": 1771801441758,
+      "expiration": 1771887841758,
+      "usedAt": null
     }
   },
-  "updated": 1771796706582
+  "updated": 1771801442016
 }
