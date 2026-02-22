@@ -79,7 +79,15 @@
       "createdAt": 1771778359283,
       "expiration": 1771864759283,
       "usedAt": null
+    },
+    "CROCO-2MCM-6J4J-5CDR": {
+      "userId": "1294720516552134789",
+      "username": "el212le",
+      "hwid": null,
+      "createdAt": 1771782265701,
+      "expiration": 1771868665701,
+      "usedAt": null
     }
   },
-  "updated": 1771778359547
+  "updated": 1771782265972
 }
