@@ -71,7 +71,15 @@
       "createdAt": 1771778235813,
       "expiration": 1771864635813,
       "usedAt": null
+    },
+    "CROCO-1ERO-0O1A-4TT4": {
+      "userId": "1415718441897168928",
+      "username": "s2s_alt",
+      "hwid": null,
+      "createdAt": 1771778359283,
+      "expiration": 1771864759283,
+      "usedAt": null
     }
   },
-  "updated": 1771778236067
+  "updated": 1771778359547
 }
