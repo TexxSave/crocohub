@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-89HQ-I6IZ-ET8G": {
-      "userId": "1011957501522087967",
-      "username": "elpatapouf.",
-      "hwid": null,
-      "createdAt": 1771706152119,
-      "expiration": 1771792552119,
-      "usedAt": null
-    },
-    "CROCO-D9MX-2XYK-7VGP": {
-      "userId": "1239122317804699709",
-      "username": "naelausushiz",
-      "hwid": null,
-      "createdAt": 1771706235345,
-      "expiration": 1771792635345,
-      "usedAt": null
-    },
     "CROCO-NVBF-0AGA-U01P": {
       "userId": "1461104187378241608",
       "username": "nessaqanesshybenk",
@@ -89,5 +73,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771792096744
+  "updated": 1771794573013
 }
