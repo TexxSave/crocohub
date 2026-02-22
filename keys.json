@@ -79,7 +79,15 @@
       "createdAt": 1771796626391,
       "expiration": 1771883026391,
       "usedAt": null
+    },
+    "CROCO-KR6B-4H15-GSXQ": {
+      "userId": "1331705682658988173",
+      "username": "kiraiz0672",
+      "hwid": null,
+      "createdAt": 1771796706329,
+      "expiration": 1771883106329,
+      "usedAt": null
     }
   },
-  "updated": 1771796626646
+  "updated": 1771796706582
 }
