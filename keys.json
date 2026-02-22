@@ -79,7 +79,15 @@
       "createdAt": 1771785136896,
       "expiration": 1771871536896,
       "usedAt": null
+    },
+    "CROCO-5VT9-RGIZ-YRUS": {
+      "userId": "1273348064156848308",
+      "username": "giovannniiiii_11084",
+      "hwid": null,
+      "createdAt": 1771785236620,
+      "expiration": 1771871636620,
+      "usedAt": null
     }
   },
-  "updated": 1771785137179
+  "updated": 1771785236879
 }
