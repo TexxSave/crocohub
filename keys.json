@@ -55,7 +55,15 @@
       "createdAt": 1771777799094,
       "expiration": 1771864199094,
       "usedAt": null
+    },
+    "CROCO-7O46-F4NP-EQH2": {
+      "userId": "1263517789189312522",
+      "username": "darren920100",
+      "hwid": null,
+      "createdAt": 1771777800686,
+      "expiration": 1771864200686,
+      "usedAt": null
     }
   },
-  "updated": 1771777799554
+  "updated": 1771777800881
 }
