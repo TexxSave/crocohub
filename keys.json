@@ -63,7 +63,15 @@
       "createdAt": 1771777800686,
       "expiration": 1771864200686,
       "usedAt": null
+    },
+    "CROCO-Q1HL-ISY9-41J5": {
+      "userId": "1320758413457621046",
+      "username": "mega_cat2.0_96498",
+      "hwid": null,
+      "createdAt": 1771778235813,
+      "expiration": 1771864635813,
+      "usedAt": null
     }
   },
-  "updated": 1771777800881
+  "updated": 1771778236067
 }
