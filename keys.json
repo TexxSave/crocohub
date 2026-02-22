@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-9ZU7-3NUO-D0VZ": {
-      "userId": "1263517789189312522",
-      "username": "darren920100",
-      "hwid": null,
-      "createdAt": 1771630208791,
-      "expiration": 1771716608791,
-      "usedAt": null
-    },
-    "CROCO-KMFF-LNDN-0LKI": {
-      "userId": "508509729660862464",
-      "username": "incomprisee",
-      "hwid": null,
-      "createdAt": 1771631876484,
-      "expiration": 1771718276484,
-      "usedAt": null
-    },
     "CROCO-XUMV-DZHX-PHY2": {
       "userId": "1238588203280236704",
       "username": "fayzenex",
@@ -89,5 +73,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771708172526
+  "updated": 1771718972539
 }
