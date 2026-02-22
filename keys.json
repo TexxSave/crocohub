@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-SARH-0DF9-RD9R": {
-      "userId": "1254469114727239760",
-      "username": "theshadow00276",
-      "hwid": null,
-      "createdAt": 1771680565778,
-      "expiration": 1771766965778,
-      "usedAt": null
-    },
-    "CROCO-31P0-YBQL-QEUR": {
-      "userId": "1320758413457621046",
-      "username": "mega_cat2.0_96498",
-      "hwid": null,
-      "createdAt": 1771681265131,
-      "expiration": 1771767665131,
-      "usedAt": null
-    },
     "CROCO-AZDR-G5C0-I8C9": {
       "userId": "1133730357930377287",
       "username": "kzqsd",
@@ -65,5 +49,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771754972711
+  "updated": 1771769372812
 }
