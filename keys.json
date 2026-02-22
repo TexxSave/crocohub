@@ -47,7 +47,15 @@
       "createdAt": 1771706235345,
       "expiration": 1771792635345,
       "usedAt": null
+    },
+    "CROCO-NVBF-0AGA-U01P": {
+      "userId": "1461104187378241608",
+      "username": "nessaqanesshybenk",
+      "hwid": null,
+      "createdAt": 1771777799094,
+      "expiration": 1771864199094,
+      "usedAt": null
     }
   },
-  "updated": 1771769372812
+  "updated": 1771777799554
 }
