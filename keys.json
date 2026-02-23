@@ -135,7 +135,15 @@
       "createdAt": 1771852900701,
       "expiration": 1771939300701,
       "usedAt": null
+    },
+    "CROCO-7G4Z-ORDN-DYLI": {
+      "userId": "281405691737014273",
+      "username": "petitcalibredu7",
+      "hwid": null,
+      "createdAt": 1771859921199,
+      "expiration": 1771946321199,
+      "usedAt": null
     }
   },
-  "updated": 1771852900990
+  "updated": 1771859921505
 }
