@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-U1KU-E18P-W6RY": {
-      "userId": "1255873984373719135",
-      "username": "elias2.00272",
-      "hwid": null,
-      "createdAt": 1771801441758,
-      "expiration": 1771887841758,
-      "usedAt": null
-    },
     "CROCO-KI32-WGB8-WX2I": {
       "userId": "1433958754390380658",
       "username": "rwnazzz",
@@ -89,5 +81,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771884573135
+  "updated": 1771888173168
 }
