@@ -103,7 +103,15 @@
       "createdAt": 1771872634543,
       "expiration": 1771959034543,
       "usedAt": null
+    },
+    "CROCO-S53Q-DWKP-ZWML": {
+      "userId": "1097267141494972556",
+      "username": "under.tak",
+      "hwid": null,
+      "createdAt": 1771876240002,
+      "expiration": 1771962640002,
+      "usedAt": null
     }
   },
-  "updated": 1771873773102
+  "updated": 1771876240827
 }
