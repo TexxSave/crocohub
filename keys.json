@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-CMLA-OBWD-4W7M": {
-      "userId": "1211784252861980692",
-      "username": "kj_9810",
-      "hwid": null,
-      "createdAt": 1771790944258,
-      "expiration": 1771877344258,
-      "usedAt": null
-    },
     "CROCO-8WXX-GQT6-ROZ9": {
       "userId": "1458865035068706838",
       "username": "rayroxalt2",
@@ -113,5 +105,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771876240827
+  "updated": 1771877373121
 }
