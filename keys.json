@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-BLHQ-29SI-G3TT": {
-      "userId": "1239122317804699709",
-      "username": "naelausushiz",
-      "hwid": null,
-      "createdAt": 1771796626391,
-      "expiration": 1771883026391,
-      "usedAt": null
-    },
-    "CROCO-KR6B-4H15-GSXQ": {
-      "userId": "1331705682658988173",
-      "username": "kiraiz0672",
-      "hwid": null,
-      "createdAt": 1771796706329,
-      "expiration": 1771883106329,
-      "usedAt": null
-    },
     "CROCO-U1KU-E18P-W6RY": {
       "userId": "1255873984373719135",
       "username": "elias2.00272",
@@ -105,5 +89,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771884333836
+  "updated": 1771884573135
 }
