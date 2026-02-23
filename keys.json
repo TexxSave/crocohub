@@ -127,7 +127,15 @@
       "createdAt": 1771852114897,
       "expiration": 1771938514897,
       "usedAt": null
+    },
+    "CROCO-XTMV-1DUA-5ES0": {
+      "userId": "1319387256980639889",
+      "username": "so_dragon35",
+      "hwid": null,
+      "createdAt": 1771852900701,
+      "expiration": 1771939300701,
+      "usedAt": null
     }
   },
-  "updated": 1771852115184
+  "updated": 1771852900990
 }
