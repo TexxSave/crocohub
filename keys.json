@@ -111,7 +111,15 @@
       "createdAt": 1771871423221,
       "expiration": 1771957823221,
       "usedAt": null
+    },
+    "CROCO-AV9U-SEHW-NEKN": {
+      "userId": "915877061200056340",
+      "username": "qdf4",
+      "hwid": null,
+      "createdAt": 1771872634543,
+      "expiration": 1771959034543,
+      "usedAt": null
     }
   },
-  "updated": 1771871423510
+  "updated": 1771872634817
 }
