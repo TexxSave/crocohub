@@ -103,7 +103,15 @@
       "createdAt": 1771859921199,
       "expiration": 1771946321199,
       "usedAt": null
+    },
+    "CROCO-CCYB-X4HO-01MZ": {
+      "userId": "756965679923462174",
+      "username": "souhail1234",
+      "hwid": null,
+      "createdAt": 1771871423221,
+      "expiration": 1771957823221,
+      "usedAt": null
     }
   },
-  "updated": 1771870173102
+  "updated": 1771871423510
 }
