@@ -95,7 +95,15 @@
       "createdAt": 1771876240002,
       "expiration": 1771962640002,
       "usedAt": null
+    },
+    "CROCO-AI58-ZAKQ-LFXU": {
+      "userId": "1238588203280236704",
+      "username": "fayzenex",
+      "hwid": null,
+      "createdAt": 1771884333539,
+      "expiration": 1771970733539,
+      "usedAt": null
     }
   },
-  "updated": 1771880973105
+  "updated": 1771884333836
 }
