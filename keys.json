@@ -111,7 +111,15 @@
       "createdAt": 1771829811296,
       "expiration": 1771916211296,
       "usedAt": null
+    },
+    "CROCO-54WN-WVVP-N6AC": {
+      "userId": "1126037419049893958",
+      "username": "elioto.",
+      "hwid": null,
+      "createdAt": 1771836535665,
+      "expiration": 1771922935665,
+      "usedAt": null
     }
   },
-  "updated": 1771829811556
+  "updated": 1771836535963
 }
