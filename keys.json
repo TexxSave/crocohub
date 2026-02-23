@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-H7YP-9HTO-FBUN": {
-      "userId": "1277607444486557738",
-      "username": "bastien3444",
-      "hwid": null,
-      "createdAt": 1771785136896,
-      "expiration": 1771871536896,
-      "usedAt": null
-    },
-    "CROCO-5VT9-RGIZ-YRUS": {
-      "userId": "1273348064156848308",
-      "username": "giovannniiiii_11084",
-      "hwid": null,
-      "createdAt": 1771785236620,
-      "expiration": 1771871636620,
-      "usedAt": null
-    },
     "CROCO-CMLA-OBWD-4W7M": {
       "userId": "1211784252861980692",
       "username": "kj_9810",
@@ -121,5 +105,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771872634817
+  "updated": 1771873773102
 }
