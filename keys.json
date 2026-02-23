@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-2MCM-6J4J-5CDR": {
-      "userId": "1294720516552134789",
-      "username": "el212le",
-      "hwid": null,
-      "createdAt": 1771782265701,
-      "expiration": 1771868665701,
-      "usedAt": null
-    },
     "CROCO-H7YP-9HTO-FBUN": {
       "userId": "1277607444486557738",
       "username": "bastien3444",
@@ -113,5 +105,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771866573090
+  "updated": 1771870173102
 }
