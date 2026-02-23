@@ -119,7 +119,15 @@
       "createdAt": 1771836535665,
       "expiration": 1771922935665,
       "usedAt": null
+    },
+    "CROCO-805A-WKQC-5IZS": {
+      "userId": "1178352374297923655",
+      "username": "aznff",
+      "hwid": null,
+      "createdAt": 1771852114897,
+      "expiration": 1771938514897,
+      "usedAt": null
     }
   },
-  "updated": 1771836535963
+  "updated": 1771852115184
 }
