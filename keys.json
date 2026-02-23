@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-8WXX-GQT6-ROZ9": {
-      "userId": "1458865035068706838",
-      "username": "rayroxalt2",
-      "hwid": null,
-      "createdAt": 1771792096485,
-      "expiration": 1771878496485,
-      "usedAt": null
-    },
     "CROCO-BLHQ-29SI-G3TT": {
       "userId": "1239122317804699709",
       "username": "naelausushiz",
@@ -105,5 +97,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771877373121
+  "updated": 1771880973105
 }
