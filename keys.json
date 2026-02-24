@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-KI32-WGB8-WX2I": {
-      "userId": "1433958754390380658",
-      "username": "rwnazzz",
-      "hwid": null,
-      "createdAt": 1771804947190,
-      "expiration": 1771891347190,
-      "usedAt": null
-    },
     "CROCO-D2XN-15L0-YZW6": {
       "userId": "792915577333088297",
       "username": "cicinho973",
@@ -81,5 +73,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771888173168
+  "updated": 1771891773138
 }
