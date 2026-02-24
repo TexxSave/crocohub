@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-CCYB-X4HO-01MZ": {
-      "userId": "756965679923462174",
-      "username": "souhail1234",
-      "hwid": null,
-      "createdAt": 1771871423221,
-      "expiration": 1771957823221,
-      "usedAt": null
-    },
-    "CROCO-AV9U-SEHW-NEKN": {
-      "userId": "915877061200056340",
-      "username": "qdf4",
-      "hwid": null,
-      "createdAt": 1771872634543,
-      "expiration": 1771959034543,
-      "usedAt": null
-    },
     "CROCO-S53Q-DWKP-ZWML": {
       "userId": "1097267141494972556",
       "username": "under.tak",
@@ -73,5 +57,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771949373423
+  "updated": 1771960173411
 }
