@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-54WN-WVVP-N6AC": {
-      "userId": "1126037419049893958",
-      "username": "elioto.",
-      "hwid": null,
-      "createdAt": 1771836535665,
-      "expiration": 1771922935665,
-      "usedAt": null
-    },
     "CROCO-805A-WKQC-5IZS": {
       "userId": "1178352374297923655",
       "username": "aznff",
@@ -65,5 +57,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771916973258
+  "updated": 1771924173280
 }
