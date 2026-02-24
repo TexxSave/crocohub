@@ -55,7 +55,15 @@
       "createdAt": 1771963783905,
       "expiration": 1772050183905,
       "usedAt": null
+    },
+    "CROCO-LTXB-6LGY-RBCU": {
+      "userId": "1233837782372319326",
+      "username": "schokryve_",
+      "hwid": null,
+      "createdAt": 1771967352160,
+      "expiration": 1772053752160,
+      "usedAt": null
     }
   },
-  "updated": 1771963784186
+  "updated": 1771967352444
 }
