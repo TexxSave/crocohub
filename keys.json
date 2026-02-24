@@ -47,7 +47,15 @@
       "createdAt": 1771945722324,
       "expiration": 1772032122324,
       "usedAt": null
+    },
+    "CROCO-0AKH-NG0L-9C8N": {
+      "userId": "1263517789189312522",
+      "username": "darren920100",
+      "hwid": null,
+      "createdAt": 1771963783905,
+      "expiration": 1772050183905,
+      "usedAt": null
     }
   },
-  "updated": 1771963773425
+  "updated": 1771963784186
 }
