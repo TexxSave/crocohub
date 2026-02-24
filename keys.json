@@ -63,7 +63,15 @@
       "createdAt": 1771941761093,
       "expiration": 1772028161093,
       "usedAt": null
+    },
+    "CROCO-GGXM-WA2W-L1Z1": {
+      "userId": "1178352374297923655",
+      "username": "aznff",
+      "hwid": null,
+      "createdAt": 1771942814077,
+      "expiration": 1772029214077,
+      "usedAt": null
     }
   },
-  "updated": 1771942173372
+  "updated": 1771942814389
 }
