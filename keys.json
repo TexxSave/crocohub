@@ -55,7 +55,15 @@
       "createdAt": 1771884333539,
       "expiration": 1771970733539,
       "usedAt": null
+    },
+    "CROCO-FPKB-71OM-29P9": {
+      "userId": "792915577333088297",
+      "username": "cicinho973",
+      "hwid": null,
+      "createdAt": 1771925319709,
+      "expiration": 1772011719709,
+      "usedAt": null
     }
   },
-  "updated": 1771924173280
+  "updated": 1771925319980
 }
