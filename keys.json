@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-XTMV-1DUA-5ES0": {
-      "userId": "1319387256980639889",
-      "username": "so_dragon35",
-      "hwid": null,
-      "createdAt": 1771852900701,
-      "expiration": 1771939300701,
-      "usedAt": null
-    },
     "CROCO-7G4Z-ORDN-DYLI": {
       "userId": "281405691737014273",
       "username": "petitcalibredu7",
@@ -73,5 +65,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771941761385
+  "updated": 1771942173372
 }
