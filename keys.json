@@ -63,7 +63,15 @@
       "createdAt": 1771967352160,
       "expiration": 1772053752160,
       "usedAt": null
+    },
+    "CROCO-QXF8-EANY-J2KJ": {
+      "userId": "1433958754390380658",
+      "username": "rwnazzz",
+      "hwid": null,
+      "createdAt": 1771967529326,
+      "expiration": 1772053929326,
+      "usedAt": null
     }
   },
-  "updated": 1771967352444
+  "updated": 1771967529644
 }
