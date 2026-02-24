@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-AI58-ZAKQ-LFXU": {
-      "userId": "1238588203280236704",
-      "username": "fayzenex",
-      "hwid": null,
-      "createdAt": 1771884333539,
-      "expiration": 1771970733539,
-      "usedAt": null
-    },
     "CROCO-FPKB-71OM-29P9": {
       "userId": "792915577333088297",
       "username": "cicinho973",
@@ -73,5 +65,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771967529644
+  "updated": 1771970973447
 }
