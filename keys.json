@@ -63,7 +63,15 @@
       "createdAt": 1771940084197,
       "expiration": 1772026484197,
       "usedAt": null
+    },
+    "CROCO-F8FC-DTCR-4PCW": {
+      "userId": "1409855277771133010",
+      "username": "8ynw",
+      "hwid": null,
+      "createdAt": 1771941761093,
+      "expiration": 1772028161093,
+      "usedAt": null
     }
   },
-  "updated": 1771940084465
+  "updated": 1771941761385
 }
