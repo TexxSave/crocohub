@@ -71,7 +71,15 @@
       "createdAt": 1771942814077,
       "expiration": 1772029214077,
       "usedAt": null
+    },
+    "CROCO-ZD8K-NPMT-8WRW": {
+      "userId": "1446510875472040187",
+      "username": "ren_.4e",
+      "hwid": null,
+      "createdAt": 1771945722324,
+      "expiration": 1772032122324,
+      "usedAt": null
     }
   },
-  "updated": 1771942814389
+  "updated": 1771945722642
 }
