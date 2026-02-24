@@ -55,7 +55,15 @@
       "createdAt": 1771925319709,
       "expiration": 1772011719709,
       "usedAt": null
+    },
+    "CROCO-NVDX-9QHJ-DNKJ": {
+      "userId": "1126037419049893958",
+      "username": "elioto.",
+      "hwid": null,
+      "createdAt": 1771940084197,
+      "expiration": 1772026484197,
+      "usedAt": null
     }
   },
-  "updated": 1771938573347
+  "updated": 1771940084465
 }
