@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-805A-WKQC-5IZS": {
-      "userId": "1178352374297923655",
-      "username": "aznff",
-      "hwid": null,
-      "createdAt": 1771852114897,
-      "expiration": 1771938514897,
-      "usedAt": null
-    },
     "CROCO-XTMV-1DUA-5ES0": {
       "userId": "1319387256980639889",
       "username": "so_dragon35",
@@ -65,5 +57,5 @@
       "usedAt": null
     }
   },
-  "updated": 1771925319980
+  "updated": 1771938573347
 }
