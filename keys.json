@@ -63,7 +63,15 @@
       "createdAt": 1771967529326,
       "expiration": 1772053929326,
       "usedAt": null
+    },
+    "CROCO-XMJ8-92XJ-PB8S": {
+      "userId": "390927442094587906",
+      "username": "corbal5385",
+      "hwid": null,
+      "createdAt": 1771986864453,
+      "expiration": 1772073264453,
+      "usedAt": null
     }
   },
-  "updated": 1771970973447
+  "updated": 1771986864725
 }
