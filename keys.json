@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-GGXM-WA2W-L1Z1": {
-      "userId": "1178352374297923655",
-      "username": "aznff",
-      "hwid": null,
-      "createdAt": 1771942814077,
-      "expiration": 1772029214077,
-      "usedAt": null
-    },
-    "CROCO-ZD8K-NPMT-8WRW": {
-      "userId": "1446510875472040187",
-      "username": "ren_.4e",
-      "hwid": null,
-      "createdAt": 1771945722324,
-      "expiration": 1772032122324,
-      "usedAt": null
-    },
     "CROCO-0AKH-NG0L-9C8N": {
       "userId": "1263517789189312522",
       "username": "darren920100",
@@ -49,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772028573682
+  "updated": 1772032173688
 }
