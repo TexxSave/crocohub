@@ -15,7 +15,15 @@
       "createdAt": 1772068770153,
       "expiration": 1772155170153,
       "usedAt": null
+    },
+    "CROCO-VISP-DDFC-EOEB": {
+      "userId": "1367962161606951006",
+      "username": "rtx_bixxooos",
+      "hwid": null,
+      "createdAt": 1772068829690,
+      "expiration": 1772155229690,
+      "usedAt": null
     }
   },
-  "updated": 1772068770411
+  "updated": 1772068829950
 }
