@@ -23,7 +23,15 @@
       "createdAt": 1772071719048,
       "expiration": 1772158119048,
       "usedAt": null
+    },
+    "CROCO-6Q80-BRP1-ZIVR": {
+      "userId": "1178352374297923655",
+      "username": "aznff",
+      "hwid": null,
+      "createdAt": 1772098929156,
+      "expiration": 1772185329156,
+      "usedAt": null
     }
   },
-  "updated": 1772075373832
+  "updated": 1772098929432
 }
