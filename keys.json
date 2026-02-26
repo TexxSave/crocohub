@@ -39,7 +39,15 @@
       "createdAt": 1772100079744,
       "expiration": 1772186479744,
       "usedAt": null
+    },
+    "CROCO-98UU-226L-7UK4": {
+      "userId": "1451228639986454684",
+      "username": "0pm7",
+      "hwid": null,
+      "createdAt": 1772104280925,
+      "expiration": 1772190680925,
+      "usedAt": null
     }
   },
-  "updated": 1772100080054
+  "updated": 1772104281202
 }
