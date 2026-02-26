@@ -7,7 +7,15 @@
       "createdAt": 1771986864453,
       "expiration": 1772073264453,
       "usedAt": null
+    },
+    "CROCO-2UOV-5BS2-C7T5": {
+      "userId": "1466418684443627667",
+      "username": "zartox_85",
+      "hwid": null,
+      "createdAt": 1772068770153,
+      "expiration": 1772155170153,
+      "usedAt": null
     }
   },
-  "updated": 1772057373728
+  "updated": 1772068770411
 }
