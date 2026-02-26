@@ -23,7 +23,15 @@
       "createdAt": 1772068829690,
       "expiration": 1772155229690,
       "usedAt": null
+    },
+    "CROCO-PFK0-EVZQ-6E84": {
+      "userId": "455078376655421474",
+      "username": "lucas.clement2323",
+      "hwid": null,
+      "createdAt": 1772071719048,
+      "expiration": 1772158119048,
+      "usedAt": null
     }
   },
-  "updated": 1772068829950
+  "updated": 1772071719304
 }
