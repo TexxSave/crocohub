@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-XMJ8-92XJ-PB8S": {
-      "userId": "390927442094587906",
-      "username": "corbal5385",
-      "hwid": null,
-      "createdAt": 1771986864453,
-      "expiration": 1772073264453,
-      "usedAt": null
-    },
     "CROCO-2UOV-5BS2-C7T5": {
       "userId": "1466418684443627667",
       "username": "zartox_85",
@@ -33,5 +25,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772071719304
+  "updated": 1772075373832
 }
