@@ -55,7 +55,15 @@
       "createdAt": 1772113525342,
       "expiration": 1772199925342,
       "usedAt": null
+    },
+    "CROCO-APXV-FKJT-NXJW": {
+      "userId": "1331705682658988173",
+      "username": "kiraiz0672",
+      "hwid": null,
+      "createdAt": 1772145726363,
+      "expiration": 1772232126363,
+      "usedAt": null
     }
   },
-  "updated": 1772130339956
+  "updated": 1772145726648
 }
