@@ -47,7 +47,15 @@
       "createdAt": 1772104280925,
       "expiration": 1772190680925,
       "usedAt": null
+    },
+    "CROCO-4ZXV-B4KU-A6OP": {
+      "userId": "636307806542102528",
+      "username": "vp2.3",
+      "hwid": null,
+      "createdAt": 1772113525342,
+      "expiration": 1772199925342,
+      "usedAt": null
     }
   },
-  "updated": 1772104281202
+  "updated": 1772113525627
 }
