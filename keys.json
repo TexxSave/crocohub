@@ -39,7 +39,15 @@
       "createdAt": 1772187825364,
       "expiration": 1772274225364,
       "usedAt": null
+    },
+    "CROCO-Q823-5895-DB8X": {
+      "userId": "455078376655421474",
+      "username": "lucas.clement2323",
+      "hwid": null,
+      "createdAt": 1772189627913,
+      "expiration": 1772276027913,
+      "usedAt": null
     }
   },
-  "updated": 1772187825666
+  "updated": 1772189628180
 }
