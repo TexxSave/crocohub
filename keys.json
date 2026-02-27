@@ -39,7 +39,15 @@
       "createdAt": 1772189627913,
       "expiration": 1772276027913,
       "usedAt": null
+    },
+    "CROCO-FJ05-TP1P-ZR4J": {
+      "userId": "1178352374297923655",
+      "username": "aznff",
+      "hwid": null,
+      "createdAt": 1772198495237,
+      "expiration": 1772284895237,
+      "usedAt": null
     }
   },
-  "updated": 1772194174376
+  "updated": 1772198495517
 }
