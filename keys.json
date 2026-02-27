@@ -31,7 +31,15 @@
       "createdAt": 1772153305143,
       "expiration": 1772239705143,
       "usedAt": null
+    },
+    "CROCO-MS5B-PGYM-WG7C": {
+      "userId": "792915577333088297",
+      "username": "cicinho973",
+      "hwid": null,
+      "createdAt": 1772187825364,
+      "expiration": 1772274225364,
+      "usedAt": null
     }
   },
-  "updated": 1772186974345
+  "updated": 1772187825666
 }
