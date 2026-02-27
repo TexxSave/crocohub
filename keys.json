@@ -55,7 +55,15 @@
       "createdAt": 1772232762136,
       "expiration": 1772319162136,
       "usedAt": null
+    },
+    "CROCO-3WLX-7SKG-QQRH": {
+      "userId": "1118642630901899425",
+      "username": "hyster1que",
+      "hwid": null,
+      "createdAt": 1772235846379,
+      "expiration": 1772322246379,
+      "usedAt": null
     }
   },
-  "updated": 1772233774509
+  "updated": 1772235846643
 }
