@@ -63,7 +63,15 @@
       "createdAt": 1772145726363,
       "expiration": 1772232126363,
       "usedAt": null
+    },
+    "CROCO-0D4Q-DYQB-9G2L": {
+      "userId": "1331608902445301800",
+      "username": "alon05508",
+      "hwid": null,
+      "createdAt": 1772153305143,
+      "expiration": 1772239705143,
+      "usedAt": null
     }
   },
-  "updated": 1772145726648
+  "updated": 1772153305426
 }
