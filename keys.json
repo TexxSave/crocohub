@@ -47,7 +47,15 @@
       "createdAt": 1772212707838,
       "expiration": 1772299107838,
       "usedAt": null
+    },
+    "CROCO-Q5Y8-ZUDY-7Y1L": {
+      "userId": "1211784252861980692",
+      "username": "kj_9810",
+      "hwid": null,
+      "createdAt": 1772215497375,
+      "expiration": 1772301897375,
+      "usedAt": null
     }
   },
-  "updated": 1772212708106
+  "updated": 1772215497644
 }
