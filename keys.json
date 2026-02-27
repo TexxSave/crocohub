@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-6Q80-BRP1-ZIVR": {
-      "userId": "1178352374297923655",
-      "username": "aznff",
-      "hwid": null,
-      "createdAt": 1772098929156,
-      "expiration": 1772185329156,
-      "usedAt": null
-    },
-    "CROCO-4WX3-61WW-BPXX": {
-      "userId": "792915577333088297",
-      "username": "cicinho973",
-      "hwid": null,
-      "createdAt": 1772100079744,
-      "expiration": 1772186479744,
-      "usedAt": null
-    },
     "CROCO-98UU-226L-7UK4": {
       "userId": "1451228639986454684",
       "username": "0pm7",
@@ -49,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772158174165
+  "updated": 1772186974345
 }
