@@ -39,7 +39,15 @@
       "createdAt": 1772198495237,
       "expiration": 1772284895237,
       "usedAt": null
+    },
+    "CROCO-U639-2H3X-EI8U": {
+      "userId": "1322217084750663763",
+      "username": "nzb6",
+      "hwid": null,
+      "createdAt": 1772212707838,
+      "expiration": 1772299107838,
+      "usedAt": null
     }
   },
-  "updated": 1772201374416
+  "updated": 1772212708106
 }
