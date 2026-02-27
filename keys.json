@@ -1,29 +1,5 @@
 {
   "keys": {
-    "CROCO-2UOV-5BS2-C7T5": {
-      "userId": "1466418684443627667",
-      "username": "zartox_85",
-      "hwid": null,
-      "createdAt": 1772068770153,
-      "expiration": 1772155170153,
-      "usedAt": null
-    },
-    "CROCO-VISP-DDFC-EOEB": {
-      "userId": "1367962161606951006",
-      "username": "rtx_bixxooos",
-      "hwid": null,
-      "createdAt": 1772068829690,
-      "expiration": 1772155229690,
-      "usedAt": null
-    },
-    "CROCO-PFK0-EVZQ-6E84": {
-      "userId": "455078376655421474",
-      "username": "lucas.clement2323",
-      "hwid": null,
-      "createdAt": 1772071719048,
-      "expiration": 1772158119048,
-      "usedAt": null
-    },
     "CROCO-6Q80-BRP1-ZIVR": {
       "userId": "1178352374297923655",
       "username": "aznff",
@@ -73,5 +49,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772153305426
+  "updated": 1772158174165
 }
