@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-APXV-FKJT-NXJW": {
-      "userId": "1331705682658988173",
-      "username": "kiraiz0672",
-      "hwid": null,
-      "createdAt": 1772145726363,
-      "expiration": 1772232126363,
-      "usedAt": null
-    },
     "CROCO-0D4Q-DYQB-9G2L": {
       "userId": "1331608902445301800",
       "username": "alon05508",
@@ -65,5 +57,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772232762408
+  "updated": 1772233774509
 }
