@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-98UU-226L-7UK4": {
-      "userId": "1451228639986454684",
-      "username": "0pm7",
-      "hwid": null,
-      "createdAt": 1772104280925,
-      "expiration": 1772190680925,
-      "usedAt": null
-    },
     "CROCO-4ZXV-B4KU-A6OP": {
       "userId": "636307806542102528",
       "username": "vp2.3",
@@ -49,5 +41,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772189628180
+  "updated": 1772194174376
 }
