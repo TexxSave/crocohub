@@ -55,7 +55,15 @@
       "createdAt": 1772215497375,
       "expiration": 1772301897375,
       "usedAt": null
+    },
+    "CROCO-M23B-XX21-LI27": {
+      "userId": "1476280462719844519",
+      "username": "ww_zqsd",
+      "hwid": null,
+      "createdAt": 1772232762136,
+      "expiration": 1772319162136,
+      "usedAt": null
     }
   },
-  "updated": 1772215497644
+  "updated": 1772232762408
 }
