@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-MS5B-PGYM-WG7C": {
-      "userId": "792915577333088297",
-      "username": "cicinho973",
-      "hwid": null,
-      "createdAt": 1772187825364,
-      "expiration": 1772274225364,
-      "usedAt": null
-    },
-    "CROCO-Q823-5895-DB8X": {
-      "userId": "455078376655421474",
-      "username": "lucas.clement2323",
-      "hwid": null,
-      "createdAt": 1772189627913,
-      "expiration": 1772276027913,
-      "usedAt": null
-    },
     "CROCO-FJ05-TP1P-ZR4J": {
       "userId": "1178352374297923655",
       "username": "aznff",
@@ -89,5 +73,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772276316624
+  "updated": 1772276974709
 }
