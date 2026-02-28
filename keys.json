@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-FJ05-TP1P-ZR4J": {
-      "userId": "1178352374297923655",
-      "username": "aznff",
-      "hwid": null,
-      "createdAt": 1772198495237,
-      "expiration": 1772284895237,
-      "usedAt": null
-    },
     "CROCO-U639-2H3X-EI8U": {
       "userId": "1322217084750663763",
       "username": "nzb6",
@@ -73,5 +65,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772276974709
+  "updated": 1772287774778
 }
