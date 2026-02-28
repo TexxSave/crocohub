@@ -63,7 +63,15 @@
       "createdAt": 1772246956070,
       "expiration": 1772333356070,
       "usedAt": null
+    },
+    "CROCO-DDCY-49L5-XULH": {
+      "userId": "1258295726539014178",
+      "username": "shiketsu_203",
+      "hwid": null,
+      "createdAt": 1772266339465,
+      "expiration": 1772352739465,
+      "usedAt": null
     }
   },
-  "updated": 1772246956340
+  "updated": 1772266339738
 }
