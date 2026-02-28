@@ -47,7 +47,15 @@
       "createdAt": 1772276316365,
       "expiration": 1772362716365,
       "usedAt": null
+    },
+    "CROCO-QJKX-JW29-FNI8": {
+      "userId": "948259140751470692",
+      "username": "lexos_off",
+      "hwid": null,
+      "createdAt": 1772305556237,
+      "expiration": 1772391956237,
+      "usedAt": null
     }
   },
-  "updated": 1772302174831
+  "updated": 1772305556496
 }
