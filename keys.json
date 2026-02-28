@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-U639-2H3X-EI8U": {
-      "userId": "1322217084750663763",
-      "username": "nzb6",
-      "hwid": null,
-      "createdAt": 1772212707838,
-      "expiration": 1772299107838,
-      "usedAt": null
-    },
-    "CROCO-Q5Y8-ZUDY-7Y1L": {
-      "userId": "1211784252861980692",
-      "username": "kj_9810",
-      "hwid": null,
-      "createdAt": 1772215497375,
-      "expiration": 1772301897375,
-      "usedAt": null
-    },
     "CROCO-M23B-XX21-LI27": {
       "userId": "1476280462719844519",
       "username": "ww_zqsd",
@@ -65,5 +49,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772287774778
+  "updated": 1772302174831
 }
