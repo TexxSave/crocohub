@@ -55,7 +55,15 @@
       "createdAt": 1772235846379,
       "expiration": 1772322246379,
       "usedAt": null
+    },
+    "CROCO-9SQM-XVQW-T63Y": {
+      "userId": "1231624983030009939",
+      "username": "croco.v1",
+      "hwid": null,
+      "createdAt": 1772246956070,
+      "expiration": 1772333356070,
+      "usedAt": null
     }
   },
-  "updated": 1772240974532
+  "updated": 1772246956340
 }
