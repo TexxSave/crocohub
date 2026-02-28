@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-M23B-XX21-LI27": {
-      "userId": "1476280462719844519",
-      "username": "ww_zqsd",
-      "hwid": null,
-      "createdAt": 1772232762136,
-      "expiration": 1772319162136,
-      "usedAt": null
-    },
     "CROCO-3WLX-7SKG-QQRH": {
       "userId": "1118642630901899425",
       "username": "hyster1que",
@@ -57,5 +49,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772305556496
+  "updated": 1772320174886
 }
