@@ -71,7 +71,15 @@
       "createdAt": 1772266339465,
       "expiration": 1772352739465,
       "usedAt": null
+    },
+    "CROCO-9WSH-ISKY-HEM4": {
+      "userId": "792915577333088297",
+      "username": "cicinho973",
+      "hwid": null,
+      "createdAt": 1772275486349,
+      "expiration": 1772361886349,
+      "usedAt": null
     }
   },
-  "updated": 1772266339738
+  "updated": 1772275486605
 }
