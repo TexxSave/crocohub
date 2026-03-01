@@ -23,7 +23,15 @@
       "createdAt": 1772362694103,
       "expiration": 1772449094103,
       "usedAt": null
+    },
+    "CROCO-2CXS-VY4I-OMLI": {
+      "userId": "1239122317804699709",
+      "username": "naelausushiz",
+      "hwid": null,
+      "createdAt": 1772367211572,
+      "expiration": 1772453611572,
+      "usedAt": null
     }
   },
-  "updated": 1772363375054
+  "updated": 1772367211843
 }
