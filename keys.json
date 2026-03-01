@@ -31,7 +31,15 @@
       "createdAt": 1772367211572,
       "expiration": 1772453611572,
       "usedAt": null
+    },
+    "CROCO-TWG9-QMUG-PAT9": {
+      "userId": "1149428229896147047",
+      "username": "tly_.",
+      "hwid": null,
+      "createdAt": 1772385723950,
+      "expiration": 1772472123950,
+      "usedAt": null
     }
   },
-  "updated": 1772367211843
+  "updated": 1772385724216
 }
