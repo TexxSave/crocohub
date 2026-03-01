@@ -31,7 +31,15 @@
       "createdAt": 1772385723950,
       "expiration": 1772472123950,
       "usedAt": null
+    },
+    "CROCO-FN8O-EA2X-A8UA": {
+      "userId": "948259140751470692",
+      "username": "lexos_off",
+      "hwid": null,
+      "createdAt": 1772394618008,
+      "expiration": 1772481018008,
+      "usedAt": null
     }
   },
-  "updated": 1772392175145
+  "updated": 1772394618263
 }
