@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-QJKX-JW29-FNI8": {
-      "userId": "948259140751470692",
-      "username": "lexos_off",
-      "hwid": null,
-      "createdAt": 1772305556237,
-      "expiration": 1772391956237,
-      "usedAt": null
-    },
     "CROCO-1EFS-U4I5-SZ0D": {
       "userId": "1078008876131156060",
       "username": "zw4v",
@@ -41,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772385724216
+  "updated": 1772392175145
 }
