@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-9WSH-ISKY-HEM4": {
-      "userId": "792915577333088297",
-      "username": "cicinho973",
-      "hwid": null,
-      "createdAt": 1772275486349,
-      "expiration": 1772361886349,
-      "usedAt": null
-    },
-    "CROCO-TAMO-NFOR-DQ7Z": {
-      "userId": "1263517789189312522",
-      "username": "darren920100",
-      "hwid": null,
-      "createdAt": 1772276316365,
-      "expiration": 1772362716365,
-      "usedAt": null
-    },
     "CROCO-QJKX-JW29-FNI8": {
       "userId": "948259140751470692",
       "username": "lexos_off",
@@ -41,5 +25,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772362694377
+  "updated": 1772363375054
 }
