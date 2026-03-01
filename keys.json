@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-3WLX-7SKG-QQRH": {
-      "userId": "1118642630901899425",
-      "username": "hyster1que",
-      "hwid": null,
-      "createdAt": 1772235846379,
-      "expiration": 1772322246379,
-      "usedAt": null
-    },
     "CROCO-9SQM-XVQW-T63Y": {
       "userId": "1231624983030009939",
       "username": "croco.v1",
@@ -49,5 +41,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772320174886
+  "updated": 1772323774888
 }
