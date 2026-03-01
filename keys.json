@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-9SQM-XVQW-T63Y": {
-      "userId": "1231624983030009939",
-      "username": "croco.v1",
-      "hwid": null,
-      "createdAt": 1772246956070,
-      "expiration": 1772333356070,
-      "usedAt": null
-    },
     "CROCO-DDCY-49L5-XULH": {
       "userId": "1258295726539014178",
       "username": "shiketsu_203",
@@ -41,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772323774888
+  "updated": 1772334574909
 }
