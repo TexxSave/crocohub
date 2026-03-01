@@ -23,7 +23,15 @@
       "createdAt": 1772305556237,
       "expiration": 1772391956237,
       "usedAt": null
+    },
+    "CROCO-1EFS-U4I5-SZ0D": {
+      "userId": "1078008876131156060",
+      "username": "zw4v",
+      "hwid": null,
+      "createdAt": 1772356760606,
+      "expiration": 1772443160606,
+      "usedAt": null
     }
   },
-  "updated": 1772356174990
+  "updated": 1772356760875
 }
