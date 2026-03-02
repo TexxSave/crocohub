@@ -39,7 +39,15 @@
       "createdAt": 1772477741025,
       "expiration": 1772564141025,
       "usedAt": null
+    },
+    "CROCO-J16R-52YB-QWHW": {
+      "userId": "1430167696145911914",
+      "username": "tiktok_typhoon",
+      "hwid": null,
+      "createdAt": 1772477749786,
+      "expiration": 1772564149786,
+      "usedAt": null
     }
   },
-  "updated": 1772477741297
+  "updated": 1772477750056
 }
