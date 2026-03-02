@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-FN8O-EA2X-A8UA": {
-      "userId": "948259140751470692",
-      "username": "lexos_off",
-      "hwid": null,
-      "createdAt": 1772394618008,
-      "expiration": 1772481018008,
-      "usedAt": null
-    },
     "CROCO-FUJ9-H54U-PVIT": {
       "userId": "1239122317804699709",
       "username": "naelausushiz",
@@ -57,5 +49,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772479039219
+  "updated": 1772482175444
 }
