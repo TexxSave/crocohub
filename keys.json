@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-O4I2-VTG5-KTO8": {
-      "userId": "1450550514428284950",
-      "username": "nama1407.",
-      "hwid": null,
-      "createdAt": 1772362694103,
-      "expiration": 1772449094103,
-      "usedAt": null
-    },
     "CROCO-2CXS-VY4I-OMLI": {
       "userId": "1239122317804699709",
       "username": "naelausushiz",
@@ -33,5 +25,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772446175313
+  "updated": 1772449775328
 }
