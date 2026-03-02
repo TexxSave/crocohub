@@ -47,7 +47,15 @@
       "createdAt": 1772479038934,
       "expiration": 1772565438934,
       "usedAt": null
+    },
+    "CROCO-WHCE-1RW2-Z3Z3": {
+      "userId": "455078376655421474",
+      "username": "lucas.clement2323",
+      "hwid": null,
+      "createdAt": 1772483517777,
+      "expiration": 1772569917777,
+      "usedAt": null
     }
   },
-  "updated": 1772482175444
+  "updated": 1772483518097
 }
