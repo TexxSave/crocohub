@@ -15,7 +15,15 @@
       "createdAt": 1772394618008,
       "expiration": 1772481018008,
       "usedAt": null
+    },
+    "CROCO-FUJ9-H54U-PVIT": {
+      "userId": "1239122317804699709",
+      "username": "naelausushiz",
+      "hwid": null,
+      "createdAt": 1772472206772,
+      "expiration": 1772558606772,
+      "usedAt": null
     }
   },
-  "updated": 1772456975384
+  "updated": 1772472207066
 }
