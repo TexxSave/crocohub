@@ -55,7 +55,15 @@
       "createdAt": 1772483517777,
       "expiration": 1772569917777,
       "usedAt": null
+    },
+    "CROCO-6JCA-YFVU-IKEP": {
+      "userId": "542150335981027371",
+      "username": "loulou1019840",
+      "hwid": null,
+      "createdAt": 1772495748828,
+      "expiration": 1772582148828,
+      "usedAt": null
     }
   },
-  "updated": 1772483518097
+  "updated": 1772495749845
 }
