@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-1EFS-U4I5-SZ0D": {
-      "userId": "1078008876131156060",
-      "username": "zw4v",
-      "hwid": null,
-      "createdAt": 1772356760606,
-      "expiration": 1772443160606,
-      "usedAt": null
-    },
     "CROCO-O4I2-VTG5-KTO8": {
       "userId": "1450550514428284950",
       "username": "nama1407.",
@@ -41,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772394618263
+  "updated": 1772446175313
 }
