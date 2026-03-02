@@ -23,7 +23,15 @@
       "createdAt": 1772472206772,
       "expiration": 1772558606772,
       "usedAt": null
+    },
+    "CROCO-VLIG-MFIA-UW9N": {
+      "userId": "936292115011502152",
+      "username": "q9ff",
+      "hwid": null,
+      "createdAt": 1772472842661,
+      "expiration": 1772559242661,
+      "usedAt": null
     }
   },
-  "updated": 1772472207066
+  "updated": 1772472842964
 }
