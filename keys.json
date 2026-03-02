@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-TWG9-QMUG-PAT9": {
-      "userId": "1149428229896147047",
-      "username": "tly_.",
-      "hwid": null,
-      "createdAt": 1772385723950,
-      "expiration": 1772472123950,
-      "usedAt": null
-    },
     "CROCO-FN8O-EA2X-A8UA": {
       "userId": "948259140751470692",
       "username": "lexos_off",
@@ -41,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772473931365
+  "updated": 1772474975416
 }
