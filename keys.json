@@ -47,7 +47,15 @@
       "createdAt": 1772477749786,
       "expiration": 1772564149786,
       "usedAt": null
+    },
+    "CROCO-FE9L-TWH2-3Y8A": {
+      "userId": "1149428229896147047",
+      "username": "tly_.",
+      "hwid": null,
+      "createdAt": 1772479038934,
+      "expiration": 1772565438934,
+      "usedAt": null
     }
   },
-  "updated": 1772477750056
+  "updated": 1772479039219
 }
