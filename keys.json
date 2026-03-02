@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-2CXS-VY4I-OMLI": {
-      "userId": "1239122317804699709",
-      "username": "naelausushiz",
-      "hwid": null,
-      "createdAt": 1772367211572,
-      "expiration": 1772453611572,
-      "usedAt": null
-    },
     "CROCO-TWG9-QMUG-PAT9": {
       "userId": "1149428229896147047",
       "username": "tly_.",
@@ -25,5 +17,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772449775328
+  "updated": 1772456975384
 }
