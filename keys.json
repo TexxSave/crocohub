@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-FE9L-TWH2-3Y8A": {
-      "userId": "1149428229896147047",
-      "username": "tly_.",
-      "hwid": null,
-      "createdAt": 1772479038934,
-      "expiration": 1772565438934,
-      "usedAt": null
-    },
     "CROCO-WHCE-1RW2-Z3Z3": {
       "userId": "455078376655421474",
       "username": "lucas.clement2323",
@@ -89,5 +81,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772567107754
+  "updated": 1772568575784
 }
