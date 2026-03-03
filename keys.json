@@ -79,7 +79,15 @@
       "createdAt": 1772562990185,
       "expiration": 1772649390185,
       "usedAt": null
+    },
+    "CROCO-1GPF-NNEH-HP20": {
+      "userId": "1430167696145911914",
+      "username": "tiktok_typhoon",
+      "hwid": null,
+      "createdAt": 1772567107479,
+      "expiration": 1772653507479,
+      "usedAt": null
     }
   },
-  "updated": 1772564975776
+  "updated": 1772567107754
 }
