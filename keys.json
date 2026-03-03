@@ -87,7 +87,15 @@
       "createdAt": 1772547866243,
       "expiration": 1772634266243,
       "usedAt": null
+    },
+    "CROCO-L2WU-17YL-995J": {
+      "userId": "1167181852294000740",
+      "username": "tpaop0",
+      "hwid": null,
+      "createdAt": 1772549447058,
+      "expiration": 1772635847058,
+      "usedAt": null
     }
   },
-  "updated": 1772547866551
+  "updated": 1772549447329
 }
