@@ -1,29 +1,5 @@
 {
   "keys": {
-    "CROCO-FUJ9-H54U-PVIT": {
-      "userId": "1239122317804699709",
-      "username": "naelausushiz",
-      "hwid": null,
-      "createdAt": 1772472206772,
-      "expiration": 1772558606772,
-      "usedAt": null
-    },
-    "CROCO-VLIG-MFIA-UW9N": {
-      "userId": "936292115011502152",
-      "username": "q9ff",
-      "hwid": null,
-      "createdAt": 1772472842661,
-      "expiration": 1772559242661,
-      "usedAt": null
-    },
-    "CROCO-E32T-364V-SHDM": {
-      "userId": "1263517789189312522",
-      "username": "darren920100",
-      "hwid": null,
-      "createdAt": 1772473931062,
-      "expiration": 1772560331062,
-      "usedAt": null
-    },
     "CROCO-BHFJ-CQXM-404X": {
       "userId": "1231624983030009939",
       "username": "croco.v1",
@@ -113,5 +89,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772561082644
+  "updated": 1772561375803
 }
