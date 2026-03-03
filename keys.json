@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-BHFJ-CQXM-404X": {
-      "userId": "1231624983030009939",
-      "username": "croco.v1",
-      "hwid": null,
-      "createdAt": 1772477741025,
-      "expiration": 1772564141025,
-      "usedAt": null
-    },
-    "CROCO-J16R-52YB-QWHW": {
-      "userId": "1430167696145911914",
-      "username": "tiktok_typhoon",
-      "hwid": null,
-      "createdAt": 1772477749786,
-      "expiration": 1772564149786,
-      "usedAt": null
-    },
     "CROCO-FE9L-TWH2-3Y8A": {
       "userId": "1149428229896147047",
       "username": "tly_.",
@@ -97,5 +81,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772562990481
+  "updated": 1772564975776
 }
