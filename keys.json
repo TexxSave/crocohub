@@ -63,7 +63,15 @@
       "createdAt": 1772495748828,
       "expiration": 1772582148828,
       "usedAt": null
+    },
+    "CROCO-2N5V-IGLY-8NN4": {
+      "userId": "1229173467568410626",
+      "username": "rhayan_388",
+      "hwid": null,
+      "createdAt": 1772508631869,
+      "expiration": 1772595031869,
+      "usedAt": null
     }
   },
-  "updated": 1772495749845
+  "updated": 1772508632135
 }
