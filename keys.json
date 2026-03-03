@@ -87,7 +87,15 @@
       "createdAt": 1772561082365,
       "expiration": 1772647482365,
       "usedAt": null
+    },
+    "CROCO-JTE2-8RQ4-0T0U": {
+      "userId": "1277607444486557738",
+      "username": "bastien3444",
+      "hwid": null,
+      "createdAt": 1772562990185,
+      "expiration": 1772649390185,
+      "usedAt": null
     }
   },
-  "updated": 1772561375803
+  "updated": 1772562990481
 }
