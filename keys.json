@@ -79,7 +79,15 @@
       "createdAt": 1772528112114,
       "expiration": 1772614512114,
       "usedAt": null
+    },
+    "CROCO-FIF4-E3FD-V5O8": {
+      "userId": "1238588203280236704",
+      "username": "fayzenex",
+      "hwid": null,
+      "createdAt": 1772547866243,
+      "expiration": 1772634266243,
+      "usedAt": null
     }
   },
-  "updated": 1772528112420
+  "updated": 1772547866551
 }
