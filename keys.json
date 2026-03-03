@@ -79,7 +79,15 @@
       "createdAt": 1772567107479,
       "expiration": 1772653507479,
       "usedAt": null
+    },
+    "CROCO-JBG3-9TEH-LCXC": {
+      "userId": "1239122317804699709",
+      "username": "naelausushiz",
+      "hwid": null,
+      "createdAt": 1772570278559,
+      "expiration": 1772656678559,
+      "usedAt": null
     }
   },
-  "updated": 1772568575784
+  "updated": 1772570278874
 }
