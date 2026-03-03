@@ -103,7 +103,15 @@
       "createdAt": 1772560469899,
       "expiration": 1772646869899,
       "usedAt": null
+    },
+    "CROCO-ZDK2-G09E-GGOX": {
+      "userId": "1415948747313254442",
+      "username": "zerox_667.",
+      "hwid": null,
+      "createdAt": 1772561082365,
+      "expiration": 1772647482365,
+      "usedAt": null
     }
   },
-  "updated": 1772560470165
+  "updated": 1772561082644
 }
