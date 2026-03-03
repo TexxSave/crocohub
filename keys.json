@@ -79,7 +79,15 @@
       "createdAt": 1772570278559,
       "expiration": 1772656678559,
       "usedAt": null
+    },
+    "CROCO-CZVY-ZQMC-SJYK": {
+      "userId": "1149428229896147047",
+      "username": "tly_.",
+      "hwid": null,
+      "createdAt": 1772578084572,
+      "expiration": 1772664484572,
+      "usedAt": null
     }
   },
-  "updated": 1772572175784
+  "updated": 1772578084846
 }
