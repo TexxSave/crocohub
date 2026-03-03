@@ -71,7 +71,15 @@
       "createdAt": 1772508631869,
       "expiration": 1772595031869,
       "usedAt": null
+    },
+    "CROCO-13B1-DKD7-KSCW": {
+      "userId": "1370819534981824654",
+      "username": "momo2013l_22055",
+      "hwid": null,
+      "createdAt": 1772528112114,
+      "expiration": 1772614512114,
+      "usedAt": null
     }
   },
-  "updated": 1772508632135
+  "updated": 1772528112420
 }
