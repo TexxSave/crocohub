@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-WNDT-323O-LS8W": {
-      "userId": "1263517789189312522",
-      "username": "darren920100",
-      "hwid": null,
-      "createdAt": 1772560469899,
-      "expiration": 1772646869899,
-      "usedAt": null
-    },
-    "CROCO-ZDK2-G09E-GGOX": {
-      "userId": "1415948747313254442",
-      "username": "zerox_667.",
-      "hwid": null,
-      "createdAt": 1772561082365,
-      "expiration": 1772647482365,
-      "usedAt": null
-    },
     "CROCO-JTE2-8RQ4-0T0U": {
       "userId": "1277607444486557738",
       "username": "bastien3444",
@@ -105,5 +89,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772641674455
+  "updated": 1772647776353
 }
