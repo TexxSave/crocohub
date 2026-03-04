@@ -87,7 +87,15 @@
       "createdAt": 1772617914160,
       "expiration": 1772704314160,
       "usedAt": null
+    },
+    "CROCO-KHFJ-RX4P-D161": {
+      "userId": "1477364547068104775",
+      "username": "klaynoum.",
+      "hwid": null,
+      "createdAt": 1772628146394,
+      "expiration": 1772714546394,
+      "usedAt": null
     }
   },
-  "updated": 1772617914418
+  "updated": 1772628146681
 }
