@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-1GPF-NNEH-HP20": {
-      "userId": "1430167696145911914",
-      "username": "tiktok_typhoon",
-      "hwid": null,
-      "createdAt": 1772567107479,
-      "expiration": 1772653507479,
-      "usedAt": null
-    },
     "CROCO-JBG3-9TEH-LCXC": {
       "userId": "1239122317804699709",
       "username": "naelausushiz",
@@ -81,5 +73,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772651376175
+  "updated": 1772654976160
 }
