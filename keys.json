@@ -95,7 +95,15 @@
       "createdAt": 1772628146394,
       "expiration": 1772714546394,
       "usedAt": null
+    },
+    "CROCO-NRNR-1ACB-C0YI": {
+      "userId": "681870240962838589",
+      "username": "marrizz12",
+      "hwid": null,
+      "createdAt": 1772635293922,
+      "expiration": 1772721693922,
+      "usedAt": null
     }
   },
-  "updated": 1772628146681
+  "updated": 1772635294201
 }
