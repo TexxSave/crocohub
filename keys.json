@@ -79,7 +79,15 @@
       "createdAt": 1772606192524,
       "expiration": 1772692592524,
       "usedAt": null
+    },
+    "CROCO-FM7W-P6VS-2L0S": {
+      "userId": "1370819534981824654",
+      "username": "momo2013l_22055",
+      "hwid": null,
+      "createdAt": 1772617914160,
+      "expiration": 1772704314160,
+      "usedAt": null
     }
   },
-  "updated": 1772615375946
+  "updated": 1772617914418
 }
