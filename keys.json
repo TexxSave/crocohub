@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-JBG3-9TEH-LCXC": {
-      "userId": "1239122317804699709",
-      "username": "naelausushiz",
-      "hwid": null,
-      "createdAt": 1772570278559,
-      "expiration": 1772656678559,
-      "usedAt": null
-    },
     "CROCO-CZVY-ZQMC-SJYK": {
       "userId": "1149428229896147047",
       "username": "tly_.",
@@ -73,5 +65,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772654976160
+  "updated": 1772658576211
 }
