@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-13B1-DKD7-KSCW": {
-      "userId": "1370819534981824654",
-      "username": "momo2013l_22055",
-      "hwid": null,
-      "createdAt": 1772528112114,
-      "expiration": 1772614512114,
-      "usedAt": null
-    },
     "CROCO-FIF4-E3FD-V5O8": {
       "userId": "1238588203280236704",
       "username": "fayzenex",
@@ -89,5 +81,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772606192819
+  "updated": 1772615375946
 }
