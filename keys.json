@@ -95,7 +95,15 @@
       "createdAt": 1772636380363,
       "expiration": 1772722780363,
       "usedAt": null
+    },
+    "CROCO-JT3G-FIOU-ZHJC": {
+      "userId": "1117486605935059024",
+      "username": "nounours_08",
+      "hwid": null,
+      "createdAt": 1772641674175,
+      "expiration": 1772728074175,
+      "usedAt": null
     }
   },
-  "updated": 1772636976086
+  "updated": 1772641674455
 }
