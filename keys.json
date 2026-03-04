@@ -1,21 +1,5 @@
 {
   "keys": {
-    "CROCO-FIF4-E3FD-V5O8": {
-      "userId": "1238588203280236704",
-      "username": "fayzenex",
-      "hwid": null,
-      "createdAt": 1772547866243,
-      "expiration": 1772634266243,
-      "usedAt": null
-    },
-    "CROCO-L2WU-17YL-995J": {
-      "userId": "1167181852294000740",
-      "username": "tpaop0",
-      "hwid": null,
-      "createdAt": 1772549447058,
-      "expiration": 1772635847058,
-      "usedAt": null
-    },
     "CROCO-WNDT-323O-LS8W": {
       "userId": "1263517789189312522",
       "username": "darren920100",
@@ -113,5 +97,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772636380657
+  "updated": 1772636976086
 }
