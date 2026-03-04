@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-CZVY-ZQMC-SJYK": {
-      "userId": "1149428229896147047",
-      "username": "tly_.",
-      "hwid": null,
-      "createdAt": 1772578084572,
-      "expiration": 1772664484572,
-      "usedAt": null
-    },
     "CROCO-TKGI-HF72-VPPB": {
       "userId": "1371522304231604395",
       "username": "47mv7",
@@ -73,5 +65,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772661441225
+  "updated": 1772665776258
 }
