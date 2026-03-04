@@ -103,7 +103,15 @@
       "createdAt": 1772635293922,
       "expiration": 1772721693922,
       "usedAt": null
+    },
+    "CROCO-EFQV-YC22-8B9C": {
+      "userId": "1476309315152515254",
+      "username": "huglcx10",
+      "hwid": null,
+      "createdAt": 1772636380363,
+      "expiration": 1772722780363,
+      "usedAt": null
     }
   },
-  "updated": 1772635294201
+  "updated": 1772636380657
 }
