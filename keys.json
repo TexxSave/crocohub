@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-6JCA-YFVU-IKEP": {
-      "userId": "542150335981027371",
-      "username": "loulou1019840",
-      "hwid": null,
-      "createdAt": 1772495748828,
-      "expiration": 1772582148828,
-      "usedAt": null
-    },
     "CROCO-2N5V-IGLY-8NN4": {
       "userId": "1229173467568410626",
       "username": "rhayan_388",
@@ -89,5 +81,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772578084846
+  "updated": 1772582975791
 }
