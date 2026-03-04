@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-JTE2-8RQ4-0T0U": {
-      "userId": "1277607444486557738",
-      "username": "bastien3444",
-      "hwid": null,
-      "createdAt": 1772562990185,
-      "expiration": 1772649390185,
-      "usedAt": null
-    },
     "CROCO-1GPF-NNEH-HP20": {
       "userId": "1430167696145911914",
       "username": "tiktok_typhoon",
@@ -89,5 +81,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772647776353
+  "updated": 1772651376175
 }
