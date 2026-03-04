@@ -79,7 +79,15 @@
       "createdAt": 1772578084572,
       "expiration": 1772664484572,
       "usedAt": null
+    },
+    "CROCO-TKGI-HF72-VPPB": {
+      "userId": "1371522304231604395",
+      "username": "47mv7",
+      "hwid": null,
+      "createdAt": 1772593574947,
+      "expiration": 1772679974947,
+      "usedAt": null
     }
   },
-  "updated": 1772582975791
+  "updated": 1772593575222
 }
