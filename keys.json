@@ -79,7 +79,15 @@
       "createdAt": 1772593574947,
       "expiration": 1772679974947,
       "usedAt": null
+    },
+    "CROCO-IIH5-0AP1-GT03": {
+      "userId": "907524038157545512",
+      "username": "_aonyx_",
+      "hwid": null,
+      "createdAt": 1772606192524,
+      "expiration": 1772692592524,
+      "usedAt": null
     }
   },
-  "updated": 1772597375880
+  "updated": 1772606192819
 }
