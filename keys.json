@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-IIH5-0AP1-GT03": {
-      "userId": "907524038157545512",
-      "username": "_aonyx_",
-      "hwid": null,
-      "createdAt": 1772606192524,
-      "expiration": 1772692592524,
-      "usedAt": null
-    },
     "CROCO-FM7W-P6VS-2L0S": {
       "userId": "1370819534981824654",
       "username": "momo2013l_22055",
@@ -65,5 +57,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772694048080
+  "updated": 1772694576334
 }
