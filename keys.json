@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-JT3G-FIOU-ZHJC": {
-      "userId": "1117486605935059024",
-      "username": "nounours_08",
-      "hwid": null,
-      "createdAt": 1772641674175,
-      "expiration": 1772728074175,
-      "usedAt": null
-    },
     "CROCO-X5FW-QNAJ-AGXE": {
       "userId": "1263517789189312522",
       "username": "darren920100",
@@ -41,5 +33,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772723376524
+  "updated": 1772730576496
 }
