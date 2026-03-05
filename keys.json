@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-X5FW-QNAJ-AGXE": {
-      "userId": "1263517789189312522",
-      "username": "darren920100",
-      "hwid": null,
-      "createdAt": 1772661440923,
-      "expiration": 1772747840923,
-      "usedAt": null
-    },
     "CROCO-OIU4-MQK4-BYQP": {
       "userId": "1455646521746788503",
       "username": "noxchi_1234",
@@ -49,5 +41,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772743740528
+  "updated": 1772748576595
 }
