@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-KHFJ-RX4P-D161": {
-      "userId": "1477364547068104775",
-      "username": "klaynoum.",
-      "hwid": null,
-      "createdAt": 1772628146394,
-      "expiration": 1772714546394,
-      "usedAt": null
-    },
     "CROCO-NRNR-1ACB-C0YI": {
       "userId": "681870240962838589",
       "username": "marrizz12",
@@ -57,5 +49,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772713876362
+  "updated": 1772716176455
 }
