@@ -39,7 +39,15 @@
       "createdAt": 1772739174776,
       "expiration": 1772825574776,
       "usedAt": null
+    },
+    "CROCO-C0WR-9GT7-G53K": {
+      "userId": "681870240962838589",
+      "username": "marrizz12",
+      "hwid": null,
+      "createdAt": 1772743740288,
+      "expiration": 1772830140288,
+      "usedAt": null
     }
   },
-  "updated": 1772739175058
+  "updated": 1772743740528
 }
