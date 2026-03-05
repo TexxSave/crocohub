@@ -55,7 +55,15 @@
       "createdAt": 1772661440923,
       "expiration": 1772747840923,
       "usedAt": null
+    },
+    "CROCO-OIU4-MQK4-BYQP": {
+      "userId": "1455646521746788503",
+      "username": "noxchi_1234",
+      "hwid": null,
+      "createdAt": 1772694047789,
+      "expiration": 1772780447789,
+      "usedAt": null
     }
   },
-  "updated": 1772680176255
+  "updated": 1772694048080
 }
