@@ -31,7 +31,15 @@
       "createdAt": 1772722206308,
       "expiration": 1772808606308,
       "usedAt": null
+    },
+    "CROCO-UXW1-6TI1-OXF2": {
+      "userId": "1231624983030009939",
+      "username": "croco.v1",
+      "hwid": null,
+      "createdAt": 1772739174776,
+      "expiration": 1772825574776,
+      "usedAt": null
     }
   },
-  "updated": 1772730576496
+  "updated": 1772739175058
 }
