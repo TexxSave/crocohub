@@ -47,7 +47,15 @@
       "createdAt": 1772694047789,
       "expiration": 1772780447789,
       "usedAt": null
+    },
+    "CROCO-R6SI-CQE2-9Q1I": {
+      "userId": "1430167696145911914",
+      "username": "tiktok_typhoon",
+      "hwid": null,
+      "createdAt": 1772713876042,
+      "expiration": 1772800276042,
+      "usedAt": null
     }
   },
-  "updated": 1772705376414
+  "updated": 1772713876362
 }
