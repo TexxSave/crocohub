@@ -1,7 +1,6 @@
--- CROCO HUB - LOADER AVEC VÉRIFICATION GITHUB AUTOMATIQUE 🐊
+-- CROCO HUB V4 - LOADER AVEC CLÉ UNIVERSELLE 🐊
 
 local Players = game:GetService("Players")
-local HttpService = game:GetService("HttpService")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
 local CoreGui = game:GetService("CoreGui")
@@ -9,116 +8,17 @@ local CoreGui = game:GetService("CoreGui")
 local player = Players.LocalPlayer
 
 -- ========================================
--- CONFIGURATION
+-- CLÉ UNIVERSELLE
 -- ========================================
 
--- URL du fichier keys.json sur GitHub (raw)
-local KEYS_URL = "https://raw.githubusercontent.com/TexxSave/crocohub/refs/heads/main/keys.json"
-
--- Discord
-local DISCORD_INVITE = "https://discord.gg/bES4cJPgqc"
+local UNIVERSAL_KEY = "CROCO2026" -- TOUT LE MONDE UTILISE CETTE CLÉ !
 
 -- ========================================
--- HWID
+-- VÉRIFICATION
 -- ========================================
 
-local function getHWID()
-    return game:GetService("RbxAnalyticsService"):GetClientId()
-end
-
-local HWID = getHWID()
-
--- ========================================
--- STOCKAGE LOCAL
--- ========================================
-
-local function saveKey(key, expiration)
-    writefile("croco_key.dat", HttpService:JSONEncode({
-        key = key,
-        hwid = HWID,
-        expiration = expiration,
-        username = player.Name
-    }))
-end
-
-local function loadKey()
-    if isfile("croco_key.dat") then
-        local success, data = pcall(function()
-            return HttpService:JSONDecode(readfile("croco_key.dat"))
-        end)
-        
-        if success and data then
-            -- Vérifier expiration (timestamp en secondes)
-            if os.time() < data.expiration and data.hwid == HWID then
-                return data.key
-            else
-                delfile("croco_key.dat")
-            end
-        end
-    end
-    return nil
-end
-
--- ========================================
--- VÉRIFICATION AUTOMATIQUE
--- ========================================
-
-local function verifyKey(key)
-    local success, result = pcall(function()
-        -- Télécharger le fichier depuis GitHub
-        local response = game:HttpGet(KEYS_URL)
-        local keysData = HttpService:JSONDecode(response)
-        
-        -- Chercher la clé
-        if keysData.keys and keysData.keys[key] then
-            local keyData = keysData.keys[key]
-            
-            -- Vérifier expiration (millisecondes)
-            if os.time() * 1000 > keyData.expiration then
-                return {
-                    valid = false,
-                    message = "Clé expirée"
-                }
-            end
-            
-            -- Si pas de HWID, OK (première utilisation)
-            if not keyData.hwid or keyData.hwid == "" then
-                return {
-                    valid = true,
-                    expiration = math.floor(keyData.expiration / 1000),
-                    message = "Clé activée"
-                }
-            end
-            
-            -- Vérifier HWID
-            if keyData.hwid == HWID then
-                return {
-                    valid = true,
-                    expiration = math.floor(keyData.expiration / 1000),
-                    message = "Clé valide"
-                }
-            else
-                return {
-                    valid = false,
-                    message = "Clé déjà utilisée sur un autre appareil"
-                }
-            end
-        end
-        
-        return {
-            valid = false,
-            message = "Clé invalide"
-        }
-    end)
-    
-    if success then
-        return result
-    end
-    
-    return {
-        valid = false,
-        message = "Erreur de connexion"
-    }
+local function verifyKey(enteredKey)
+    return enteredKey:upper() == UNIVERSAL_KEY
 end
 
 -- ========================================
@@ -126,7 +26,7 @@ end
 -- ========================================
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "CrocoKeySystem"
+ScreenGui.Name = "CrocoKeyLoader"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ScreenGui.DisplayOrder = 999999999
@@ -142,23 +42,23 @@ pcall(function()
     end
 end)
 
-local MainFrame = Instance.new("Frame")
-MainFrame.Size = UDim2.new(0, 0, 0, 0)
-MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
-MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
-MainFrame.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
-MainFrame.BorderSizePixel = 0
-MainFrame.ClipsDescendants = true
-MainFrame.Parent = ScreenGui
+local KeyFrame = Instance.new("Frame")
+KeyFrame.Size = UDim2.new(0, 0, 0, 0)
+KeyFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+KeyFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+KeyFrame.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+KeyFrame.BorderSizePixel = 0
+KeyFrame.ClipsDescendants = true
+KeyFrame.Parent = ScreenGui
 
 local Corner = Instance.new("UICorner")
 Corner.CornerRadius = UDim.new(0, 15)
-Corner.Parent = MainFrame
+Corner.Parent = KeyFrame
 
 local Stroke = Instance.new("UIStroke")
 Stroke.Color = Color3.fromRGB(40, 200, 80)
 Stroke.Thickness = 3
-Stroke.Parent = MainFrame
+Stroke.Parent = KeyFrame
 
 -- Logo
 local Logo = Instance.new("Frame")
@@ -166,7 +66,7 @@ Logo.Size = UDim2.new(0, 100, 0, 100)
 Logo.Position = UDim2.new(0.5, -50, 0, 30)
 Logo.BackgroundColor3 = Color3.fromRGB(40, 200, 80)
 Logo.BorderSizePixel = 0
-Logo.Parent = MainFrame
+Logo.Parent = KeyFrame
 
 local LogoCorner = Instance.new("UICorner")
 LogoCorner.CornerRadius = UDim.new(0, 20)
@@ -181,70 +81,58 @@ LogoText.TextSize = 60
 LogoText.TextColor3 = Color3.fromRGB(255, 255, 255)
 LogoText.Parent = Logo
 
--- Titre
+-- Title
 local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1, -40, 0, 35)
 Title.Position = UDim2.new(0, 20, 0, 145)
 Title.BackgroundTransparency = 1
-Title.Text = "CROCO HUB"
+Title.Text = "CROCO HUB V4"
 Title.Font = Enum.Font.GothamBold
-Title.TextSize = 28
+Title.TextSize = 26
 Title.TextColor3 = Color3.fromRGB(40, 200, 80)
-Title.Parent = MainFrame
+Title.Parent = KeyFrame
 
 local Subtitle = Instance.new("TextLabel")
 Subtitle.Size = UDim2.new(1, -40, 0, 25)
 Subtitle.Position = UDim2.new(0, 20, 0, 180)
 Subtitle.BackgroundTransparency = 1
-Subtitle.Text = "Automatic Key System"
+Subtitle.Text = "Enter the universal key"
 Subtitle.Font = Enum.Font.Gotham
 Subtitle.TextSize = 14
 Subtitle.TextColor3 = Color3.fromRGB(150, 150, 150)
-Subtitle.Parent = MainFrame
+Subtitle.Parent = KeyFrame
 
 -- Instructions
 local Instructions = Instance.new("TextLabel")
-Instructions.Size = UDim2.new(1, -60, 0, 80)
+Instructions.Size = UDim2.new(1, -60, 0, 60)
 Instructions.Position = UDim2.new(0, 30, 0, 220)
 Instructions.BackgroundColor3 = Color3.fromRGB(25, 25, 30)
 Instructions.BorderSizePixel = 0
-Instructions.Text = "📌 How to get a key:\n\n1. Join our Discord server\n2. Type !getkey in any channel\n3. Copy your key and paste it here"
+Instructions.Text = "📌 Universal Key:\nCROCO2026\n\nEveryone uses the same key!"
 Instructions.Font = Enum.Font.Gotham
 Instructions.TextSize = 13
 Instructions.TextColor3 = Color3.fromRGB(200, 200, 200)
 Instructions.TextWrapped = true
-Instructions.Parent = MainFrame
+Instructions.Parent = KeyFrame
 
 local InstCorner = Instance.new("UICorner")
 InstCorner.CornerRadius = UDim.new(0, 10)
 InstCorner.Parent = Instructions
 
--- HWID (CORRIGÉ ICI !)
-local HWIDLabel = Instance.new("TextLabel")
-HWIDLabel.Size = UDim2.new(1, -60, 0, 25)
-HWIDLabel.Position = UDim2.new(0, 30, 0, 315)
-HWIDLabel.BackgroundTransparency = 1
-HWIDLabel.Text = "🔑 Your HWID: " .. HWID:sub(1, 28) .. "..."
-HWIDLabel.Font = Enum.Font.RobotoMono  -- ✅ CORRIGÉ !
-HWIDLabel.TextSize = 10
-HWIDLabel.TextColor3 = Color3.fromRGB(100, 100, 100)
-HWIDLabel.TextXAlignment = Enum.TextXAlignment.Left
-HWIDLabel.Parent = MainFrame
-
 -- Input
 local KeyInput = Instance.new("TextBox")
 KeyInput.Size = UDim2.new(1, -60, 0, 50)
-KeyInput.Position = UDim2.new(0, 30, 0, 350)
+KeyInput.Position = UDim2.new(0, 30, 0, 295)
 KeyInput.BackgroundColor3 = Color3.fromRGB(25, 25, 30)
 KeyInput.BorderSizePixel = 0
 KeyInput.Text = ""
-KeyInput.PlaceholderText = "CROCO-XXXX-XXXX-XXXX"
+KeyInput.PlaceholderText = "Enter key here..."
 KeyInput.PlaceholderColor3 = Color3.fromRGB(100, 100, 100)
 KeyInput.Font = Enum.Font.GothamBold
 KeyInput.TextSize = 16
 KeyInput.TextColor3 = Color3.fromRGB(255, 255, 255)
 KeyInput.ClearTextOnFocus = false
-KeyInput.Parent = MainFrame
+KeyInput.Parent = KeyFrame
 
 local InputCorner = Instance.new("UICorner")
 InputCorner.CornerRadius = UDim.new(0, 10)
@@ -255,33 +143,33 @@ InputStroke.Color = Color3.fromRGB(45, 45, 50)
 InputStroke.Thickness = 2
 InputStroke.Parent = KeyInput
 
--- Bouton Discord
-local DiscordBtn = Instance.new("TextButton")
-DiscordBtn.Size = UDim2.new(1, -60, 0, 50)
-DiscordBtn.Position = UDim2.new(0, 30, 0, 415)
-DiscordBtn.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
-DiscordBtn.Text = "💬 Join Discord"
-DiscordBtn.Font = Enum.Font.GothamBold
-DiscordBtn.TextSize = 18
-DiscordBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
-DiscordBtn.BorderSizePixel = 0
-DiscordBtn.Parent = MainFrame
+-- Bouton Copy Key
+local CopyBtn = Instance.new("TextButton")
+CopyBtn.Size = UDim2.new(1, -60, 0, 50)
+CopyBtn.Position = UDim2.new(0, 30, 0, 360)
+CopyBtn.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
+CopyBtn.Text = "📋 Copy Key"
+CopyBtn.Font = Enum.Font.GothamBold
+CopyBtn.TextSize = 18
+CopyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+CopyBtn.BorderSizePixel = 0
+CopyBtn.Parent = KeyFrame
 
-local DiscordCorner = Instance.new("UICorner")
-DiscordCorner.CornerRadius = UDim.new(0, 10)
-DiscordCorner.Parent = DiscordBtn
+local CopyCorner = Instance.new("UICorner")
+CopyCorner.CornerRadius = UDim.new(0, 10)
+CopyCorner.Parent = CopyBtn
 
 -- Bouton Verify
 local VerifyBtn = Instance.new("TextButton")
 VerifyBtn.Size = UDim2.new(1, -60, 0, 50)
-VerifyBtn.Position = UDim2.new(0, 30, 0, 480)
+VerifyBtn.Position = UDim2.new(0, 30, 0, 425)
 VerifyBtn.BackgroundColor3 = Color3.fromRGB(40, 200, 80)
 VerifyBtn.Text = "✅ Verify Key"
 VerifyBtn.Font = Enum.Font.GothamBold
 VerifyBtn.TextSize = 18
 VerifyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 VerifyBtn.BorderSizePixel = 0
-VerifyBtn.Parent = MainFrame
+VerifyBtn.Parent = KeyFrame
 
 local VerifyCorner = Instance.new("UICorner")
 VerifyCorner.CornerRadius = UDim.new(0, 10)
@@ -290,13 +178,13 @@ VerifyCorner.Parent = VerifyBtn
 -- Status
 local Status = Instance.new("TextLabel")
 Status.Size = UDim2.new(1, -60, 0, 30)
-Status.Position = UDim2.new(0, 30, 0, 545)
+Status.Position = UDim2.new(0, 30, 0, 490)
 Status.BackgroundTransparency = 1
 Status.Text = ""
 Status.Font = Enum.Font.GothamBold
 Status.TextSize = 13
 Status.TextColor3 = Color3.fromRGB(255, 255, 255)
-Status.Parent = MainFrame
+Status.Parent = KeyFrame
 
 -- ========================================
 -- FONCTIONS
@@ -308,14 +196,14 @@ local function showStatus(text, color)
 end
 
 local function openFrame()
-    local tween = TweenService:Create(MainFrame, TweenInfo.new(0.5, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
-        Size = UDim2.new(0, 450, 0, 595)
+    local tween = TweenService:Create(KeyFrame, TweenInfo.new(0.5, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
+        Size = UDim2.new(0, 450, 0, 540)
     })
     tween:Play()
 end
 
 local function closeFrame()
-    local tween = TweenService:Create(MainFrame, TweenInfo.new(0.4, Enum.EasingStyle.Back, Enum.EasingDirection.In), {
+    local tween = TweenService:Create(KeyFrame, TweenInfo.new(0.4, Enum.EasingStyle.Back, Enum.EasingDirection.In), {
         Size = UDim2.new(0, 0, 0, 0)
     })
     tween:Play()
@@ -325,41 +213,21 @@ end
 
 local function loadHub()
     closeFrame()
-    -- METS L'URL DE TON HUB ICI !
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/TexxSave/crocohub/refs/heads/main/hub.lua"))()
+    -- CHARGER TON HUB ICI
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TON_GITHUB/CROCO_HUB_V4_COMPLETE.lua"))()
 end
 
 -- ========================================
 -- LOGIQUE
 -- ========================================
 
--- Vérifier clé en cache
-local cachedKey = loadKey()
-if cachedKey then
-    showStatus("⏳ Verifying cached key...", Color3.fromRGB(255, 180, 50))
-    openFrame()
-    task.wait(1)
-    
-    local result = verifyKey(cachedKey)
-    if result.valid then
-        showStatus("✅ Key valid! Loading hub...", Color3.fromRGB(40, 200, 80))
-        task.wait(1)
-        loadHub()
-        return
-    else
-        showStatus("❌ " .. result.message, Color3.fromRGB(255, 80, 80))
-        delfile("croco_key.dat")
-        task.wait(2)
-    end
-end
-
 openFrame()
-showStatus("💡 Get your key on Discord!", Color3.fromRGB(150, 150, 150))
+showStatus("💡 Universal key: CROCO2026", Color3.fromRGB(150, 150, 150))
 
--- Bouton Discord
-DiscordBtn.MouseButton1Click:Connect(function()
-    setclipboard(DISCORD_INVITE)
-    showStatus("📋 Discord link copied! Press CTRL+V to paste", Color3.fromRGB(88, 101, 242))
+-- Bouton Copy
+CopyBtn.MouseButton1Click:Connect(function()
+    setclipboard(UNIVERSAL_KEY)
+    showStatus("📋 Key copied to clipboard!", Color3.fromRGB(88, 101, 242))
 end)
 
 -- Bouton Verify
@@ -371,31 +239,22 @@ VerifyBtn.MouseButton1Click:Connect(function()
         return
     end
     
-    if not key:match("^CROCO%-") then
-        showStatus("❌ Invalid key format!", Color3.fromRGB(255, 80, 80))
-        return
-    end
-    
     VerifyBtn.Text = "⏳ Verifying..."
     VerifyBtn.BackgroundColor3 = Color3.fromRGB(255, 180, 50)
-    showStatus("⏳ Checking key on GitHub...", Color3.fromRGB(255, 180, 50))
+    showStatus("⏳ Checking key...", Color3.fromRGB(255, 180, 50))
     
     task.spawn(function()
         task.wait(0.5)
         
-        local result = verifyKey(key)
-        
-        if result.valid then
+        if verifyKey(key) then
             showStatus("✅ Key accepted! Loading hub...", Color3.fromRGB(40, 200, 80))
             VerifyBtn.Text = "✅ Success!"
             VerifyBtn.BackgroundColor3 = Color3.fromRGB(50, 255, 100)
             
-            saveKey(key, result.expiration)
-            
-            task.wait(1.5)
+            task.wait(1)
             loadHub()
         else
-            showStatus("❌ " .. result.message, Color3.fromRGB(255, 80, 80))
+            showStatus("❌ Invalid key! Try: CROCO2026", Color3.fromRGB(255, 80, 80))
             VerifyBtn.Text = "❌ Failed"
             VerifyBtn.BackgroundColor3 = Color3.fromRGB(255, 60, 60)
             
@@ -407,12 +266,12 @@ VerifyBtn.MouseButton1Click:Connect(function()
     end)
 end)
 
--- Vérifier avec Entrée
+-- Verify avec Enter
 KeyInput.FocusLost:Connect(function(enterPressed)
     if enterPressed and KeyInput.Text ~= "" then
         VerifyBtn.MouseButton1Click:Fire()
     end
 end)
 
-print("🐊 Croco Hub - Automatic Key System loaded!")
-print("Discord: " .. DISCORD_INVITE)
+print("🐊 Croco Hub V4 - Universal Key System")
+print("Universal Key: CROCO2026")
