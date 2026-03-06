@@ -39,7 +39,15 @@
       "createdAt": 1772743740288,
       "expiration": 1772830140288,
       "usedAt": null
+    },
+    "CROCO-LK40-O9SM-QYRW": {
+      "userId": "1319315989229338646",
+      "username": "ledbz.",
+      "hwid": null,
+      "createdAt": 1772769513902,
+      "expiration": 1772855913902,
+      "usedAt": null
     }
   },
-  "updated": 1772748576595
+  "updated": 1772769514184
 }
