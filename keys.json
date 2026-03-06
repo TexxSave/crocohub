@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-R6SI-CQE2-9Q1I": {
-      "userId": "1430167696145911914",
-      "username": "tiktok_typhoon",
-      "hwid": null,
-      "createdAt": 1772713876042,
-      "expiration": 1772800276042,
-      "usedAt": null
-    },
     "CROCO-N5CC-C66N-S287": {
       "userId": "1423831386397081630",
       "username": "bak_texas",
@@ -49,5 +41,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772781922185
+  "updated": 1772802576739
 }
