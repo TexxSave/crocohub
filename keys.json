@@ -1,13 +1,5 @@
 {
   "keys": {
-    "CROCO-OIU4-MQK4-BYQP": {
-      "userId": "1455646521746788503",
-      "username": "noxchi_1234",
-      "hwid": null,
-      "createdAt": 1772694047789,
-      "expiration": 1772780447789,
-      "usedAt": null
-    },
     "CROCO-R6SI-CQE2-9Q1I": {
       "userId": "1430167696145911914",
       "username": "tiktok_typhoon",
@@ -49,5 +41,5 @@
       "usedAt": null
     }
   },
-  "updated": 1772769514184
+  "updated": 1772780976688
 }
