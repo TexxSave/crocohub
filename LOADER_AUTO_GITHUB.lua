@@ -214,7 +214,7 @@ end
 local function loadHub()
     closeFrame()
     -- CHARGER TON HUB ICI
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/TON_GITHUB/CROCO_HUB_V4_COMPLETE.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TexxSave/crocohub/refs/heads/main/hub.lua"))()
 end
 
 -- ========================================
